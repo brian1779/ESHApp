@@ -1,0 +1,500 @@
+ExternalID,Header Memo,Memo-Line,Posting Period,Constituent/Project,Segment Code,Account,Debit,Credit,Employee title,Customer,Dept
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,37,ADM05,5100,89.44,,"Custodian : Torres, Malinda",Administration,Operations
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,46,ADM01,5100,291.25,,"Executive Director : Diaz, Daniel",Administration,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,61,ADM05,5100,159.89,,"Maintenance Supervis : Acosta, Juan",Administration,Operations
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,68,ADM01,5100,648.33,,"Associate Executive : LOZADA-RAMIREZ, NATALIE",Administration,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,97,FHSMH,5100,106.49,,"Head Start Assistant Teacher : Collins, Ronnie",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,103,EHSCP,5100,136.51,,"Head Start Assistant Teacher : Pagan, Zaida",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,113,FHSMH,5100,135.92,,"Head Start Teacher : Perkins, Julie",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,120,EHSWW,5100,119.90,,"Cook : Crespo, Vilma",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,121,FHSADM,5100,281.92,,"Director of Program Operations : Chavez, Maritza",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,128,FHSWW,5100,221.88,,"Head Start Teacher : Rosado, Juanita",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,135,FHSMB,5100,229.93,,"Head Start Teacher : Pena, Nancy",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,186,CMP01,5100,38.98,,"Department Director : Mejia, Amber",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,186,CSC04,5100,38.98,,"Department Director : Mejia, Amber",NYC Department of Education : CSC04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,186,CSC08,5100,38.98,,"Department Director : Mejia, Amber",NYC Department of Education : CSC08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,186,CSC09,5100,38.98,,"Department Director : Mejia, Amber",NYC Department of Education : CSC09,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,186,MSE03,5100,25.99,,"Department Director : Mejia, Amber",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,186,MSE04,5100,25.99,,"Department Director : Mejia, Amber",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,186,MSE05,5100,51.99,,"Department Director : Mejia, Amber",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,270,CHT99,1905,239.07,,"Director of Operations-HCHS : GOMEZ, DELIANA",Haven Charter High School,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,273,CMP04,5100,52.02,,"Custodian : DILONE, JOSE",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,295,NSP-MI,5100,22.78,,"Activity Specialist : Kimbrough, Gerald",Department Youth & Community Development : NSP-MI,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,295,SNL,5100,21.16,,"Activity Specialist : Kimbrough, Gerald",Department Youth & Community Development : SNL-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,295,SNL-PA,5100,21.16,,"Activity Specialist : Kimbrough, Gerald",Department Youth & Community Development : SNL-PAT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,420,FHSMB,5100,94.07,,"Head Start Assistant Teacher : Skinner, Regina",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,574,ADM05,5100,68.50,,"Custodian : Gonzalez, Maria",Administration,Operations
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,752,HDM,5100,174.09,,"Warehouse Manager : Shears, Diandra",Department For The Aging : HDM,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,787,ADM03,5100,454.24,,"Director of Development : Rodriguez, Diana",Administration,Development
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,803,ALE,5100,63.11,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",NYS Department of Education : ALE,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,803,CMP01,5100,35.04,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,803,EMP03,5100,42.05,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Office of Children and Family Services : EMP03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,803,MSE02,5100,52.56,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,803,MSE03,5100,52.56,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,803,MSE04,5100,52.56,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,803,MSE05,5100,52.56,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1118,ALP01,5100,19.43,,"Social Worker Exempt : Thompson, Marangely",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1118,ALP02,5100,75.55,,"Social Worker Exempt : Thompson, Marangely",Department Youth & Community Development : ALP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1118,DFTA1-MEL,5100,120.89,,"Social Worker Exempt : Thompson, Marangely",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1128,CMP02,5100,127.08,,"Assistant Director : Gomez, Alex",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1196,ADM03,5100,250.92,,"Director of Government Relations : Nottingham, Dontai",Administration,Development
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1197,CS-MIT,5100,13.77,,"Group Leader : Carter, Jason",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1197,SNL,5100,6.12,,"Group Leader : Carter, Jason",Department Youth & Community Development : SNL-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1317,CS-MIL,5100,59.67,,"Activity Specialist : Jackson, Najea",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1378,CS-MIT,5100,205.49,,"Program Director : Barbosa, Omar",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1424,ADM04,5100,59.21,,"Payroll Manager : Mcleod, Barrett",Administration,Finance
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1424,LTW01,5100,44.39,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1424,LTW03,5100,44.39,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1424,LTW04,5100,29.60,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1424,LTW05,5100,29.60,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1424,LTW07,5100,44.39,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1424,LTW08,5100,44.39,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1542,FHSMH,5100,120.31,,"Early Head Start Teacher : HIDALGO BRAVO, LUZ",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1554,DFTA1-MEL,5100,165.17,,"Assistant Director : Puerto, Carol",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1578,MSE05,5100,68.27,,"Education Specialist : ROMAN, ENRIQUE",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1638,FHSMB,5100,100.07,,"Cook : Peralta Difod, Yokasta",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1672,CSC09,5100,238.34,,"Program Director : Cuello, Joel",NYC Department of Education : CSC09,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1675,ADM01,5100,259.86,,"Executive Assistant : Morel, Erika",Administration,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1801,CSC04,5100,227.34,,"Program Director : Chavez Tejada, Patricia",NYC Department of Education : CSC04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1813,DFTA4-BOR,5100,56.02,,"Custodian : Cordon, Santa",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1819,CMP02,5100,73.06,,"Youth Educator : Santiago, Emmanuel",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1835,EHSADM,5100,67.28,,"Deputy Director : HEYWARD, DAWN",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1835,FHSADM,5100,328.48,,"Deputy Director : HEYWARD, DAWN",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1888,ESDSVP,5100,27.65,,"Department Director : Birkeland, Brian",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1888,LTW01,5100,35.51,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1888,LTW03,5100,35.55,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1888,LTW04,5100,35.55,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1888,LTW05,5100,35.55,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1888,LTW06,5100,35.55,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1888,LTW07,5100,35.55,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1888,LTW08,5100,35.55,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,1936,LTW06,5100,222.72,,"Program Director : Alvarez Plaud, Natalia",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2047,CMP04,5100,84.53,,"Youth Educator : Calvin, Melquan",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2192,JPLUS,5100,130.03,,"Program Assistant : BLAKE, CHERYLE",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2227,CS-MIL,5100,35.70,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2227,CS-MIT,5100,35.68,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2227,CS-PAT,5100,35.68,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2227,MSE03,5100,35.68,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2227,MSE05,5100,35.68,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2261,CMP04,5100,176.87,,"Program Director : VIGILANCE, SHANTEL",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2262,ADM04,5100,246.19,,"GRANT ACCOUNTANT II : CAPELLAN, NELSON",Administration,Finance
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2263,MSE02,5100,140.58,,"Assistant Director : STEPHEN, MONIQUE",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2357,EHSWW,5100,103.85,,"Head Start Assistant Teacher : White, Audrey",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2461,CSC03,5100,165.30,,"Assistant Director : Aquino, Jeffrey",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2461,MSE04,5100,16.39,,"Assistant Director : Aquino, Jeffrey",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2481,LTW07,5100,113.64,,"Program Director : CHIEM, KATHRYN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2481,LTW08,5100,113.65,,"Program Director : CHIEM, KATHRYN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2514,EMP03,5100,105.02,,"Program Director : ARROYO, CRYSTAL",Office of Children and Family Services : EMP03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2514,MSE05,5100,105.00,,"Program Director : ARROYO, CRYSTAL",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2524,MSE05,5100,30.29,,"Activity Specialist : FORD, KIERA",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2574,MSE02,5100,19.27,,"Teacher : RAMJATTAN, KATHERINE",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2607,FHSWW,5100,154.92,,"Head Start Assistant Teacher : ROGERS, TYSHA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2935,ALE,5100,23.59,,"Director of PSP : Pinckney, Shaniyya",NYS Department of Education : ALE,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2935,ALP01,5100,54.26,,"Director of PSP : Pinckney, Shaniyya",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2935,ALP02,5100,73.14,,"Director of PSP : Pinckney, Shaniyya",Department Youth & Community Development : ALP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2935,PSP01-608,5100,84.88,,"Director of PSP : Pinckney, Shaniyya",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,2982,EHSCP,5100,119.77,,"Early Head Start Assistant Teacher : White, Latifah",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3117,CS-PAT,5100,58.14,,"Youth Educator : JONES, KENYA",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3127,LTW06,5100,135.96,,"Student Advisor : Paulino, Ana",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3183,MSE03,5100,245.79,,"Program Assistant : Taylor, Janiya",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3184,LTW04,5100,163.98,,"Student Advisor : LANTIGUA, MELANIE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3190,FHSWW,5100,198.53,,"Head Start Teacher : MILLER - MOSHER, ELIZABETH",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3226,CMP01,5100,128.55,,"Program Assistant : Ramirez Velazquez, Alma",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3301,LTW03,5100,219.58,,"Program Director : Ferreira, Jonathan",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3331,FHSCP,5100,83.64,,"Cook : ULLOA, ROCIO",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3519,CSC09,5100,140.56,,"Student Advisor : GOONEY, SINEAD",NYC Department of Education : CSC09,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3602,CS-MIT,5100,89.13,,"Group Leader : KINGSBERRY, ZAIMIA",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3610,ESDSVP,5100,91.11,,"Program Director : EDDIE, VARRELL",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3610,LTW04,5100,136.67,,"Program Director : EDDIE, VARRELL",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3734,CMP02,5100,199.88,,"Program Director : ALMEYDA, RA-DAYA",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3869,PSP01-608,5100,66.42,,"Career Development Specialist : Castro, Keva",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3869,PSP01-680,5100,74.88,,"Career Development Specialist : Castro, Keva",Heckscher Foundation,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3895,CSC04,5100,154.75,,"Student Advisor : MORA-AVILA, KATHERINE",NYC Department of Education : CSC04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3901,CSC05,5100,139.96,,"Student Advisor : Jones, Naquan",NYC Department of Education : CSC05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3902,CMP02,5100,78.41,,"Youth Educator : DAVIS, AJA",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,3912,CMP02,5100,87.93,,"Youth Educator : BOGLIN, DAMISHA",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4053,JPLUS,5100,60.59,,"Custodian : Ortiz, Timothy",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4161,DFTA4-BOR,5100,133.04,,"Assistant Director : ESPINOZA, DAYRA",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4172,CMP03,5100,84.91,,"Youth Educator : OUTLEY, BRANDON",Department Youth & Community Development : CMP03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4317,WA01,5100,245.33,,"Fundraising and Special Events Officer : BELLO, CHRISTINA",Winter Show,Development : Winter Show
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4322,CSC03,5100,221.55,,"Program Director : Rosario, Isabelle",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4332,CSC04,5100,86.74,,"Group Leader : SCRUBB, DARIA",NYC Department of Education : CSC04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4413,ADM06,5100,111.73,,"Human Resources Assistant : Saunders, Zariah Janae",Administration,Human Resources
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4434,MSE05,5100,58.48,,"Activity Specialist : PEREZ, YOSANNY",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4454,LTW07,5100,136.57,,"Student Advisor : CHAMBERS, PAUL",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4469,WA01,5100,177.27,,"Development Assistant : MALDONADO, JESSICA",Winter Show,Development : Winter Show
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4470,EHSWW,5100,117.74,,"Custodian : MOORE, LLEDOR",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4471,FHSMH,5100,91.87,,"Cook : RAMOS, HOLMEDA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4555,ADM05,5100,200.81,,"Facilities Manager : BUJOSA, JONATHON",Administration,Operations
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4600,SSS12,5100,281.88,,"Program Director : HENDRICKS, KHALIL",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4654,WA01,5100,130.68,,"Junior Communications Assistant : Barakat, Jaffrey",Winter Show,Development : Winter Show
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4678,CS-MIL,5100,140.44,,"Program Director : MARTINEZ, JESSICA",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4794,MSE03,5100,29.45,,"Group Leader : MONTGOMERY, BRYCE",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4854,LTW08,5100,18.93,,"INTERN : WILSON, JOSHUA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4863,LTW06,5100,147.58,,"Student Advisor : SANTOS, JEYCI",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4865,LTW06,5100,156.33,,"Assistant Director : Flores, Nicole",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4931,CS-MIL,5100,103.13,,"Maintenance Worker : WEEKS, TAEVON",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4961,ADM05,5100,89.52,,"Maintenance Worker : Vazquez, Ignacio",Administration,Operations
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4961,CS-MIT,5100,89.51,,"Maintenance Worker : Vazquez, Ignacio",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4969,LTW03,5100,133.61,,"Student Advisor : Charles Pierre, Nerlyne",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,4997,HDM,5100,115.22,,"Maintenance Worker : Scroggins, Bernardina",Department For The Aging : HDM,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5143,ADM02,5100,144.95,,"IT Coordinator : ASHLEY, MELISSA",Administration,Technology
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5149,ADM01,5100,299.08,,"Deputy Director : YISRAEL, ANAWAH",Administration,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5149,ALP01,5100,33.23,,"Deputy Director : YISRAEL, ANAWAH",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5152,LTW05,5100,230.30,,"Program Director : Rodriguez, Jonathan",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5165,FHSMH,5100,213.92,,"Head Start Teacher : Pacheco Martinez, Francia",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5179,ESDSVP,5100,86.01,,"Program Director : Marquez, Evin",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5179,LTW01,5100,129.03,,"Program Director : Marquez, Evin",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5181,EMP03,5100,12.24,,"Activity Specialist : Rojas, Carolina",Office of Children and Family Services : EMP03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5181,MSE05,5100,12.24,,"Activity Specialist : Rojas, Carolina",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5190,CHT99,1905,203.98,,"Dir of Student Serv : Luc, Kevin",Haven Charter High School,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5213,ADM05,5100,52.40,,"Maintenance Worker : TORRES, FRANCISCO",Administration,Operations
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5244,CS-MIT,5100,132.43,,"Assistant Director : HINES, DONNILLE",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5246,CS-MIL,5100,47.72,,"Department Director : Rivera, Nilka",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5246,CS-MIT,5100,47.74,,"Department Director : Rivera, Nilka",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5246,CS-PAT,5100,47.73,,"Department Director : Rivera, Nilka",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5246,CSC03,5100,47.73,,"Department Director : Rivera, Nilka",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5246,CSC07,5100,47.74,,"Department Director : Rivera, Nilka",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5246,CSC10,5100,47.74,,"Department Director : Rivera, Nilka",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5260,DFTA1-MEL,5100,84.83,,"Custodian : Saldana, Junior",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5284,CSC07,5100,217.06,,"Program Director : Adams, Nichelle",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5314,MSE02,5100,21.42,,"Group Leader : REYES, ALINA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5417,CS-MIT,5100,100.60,,"Group Leader : BRANCH, QUANTEL",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5421,ADM01,5100,118.58,,"Administrative Assistant : MOREL, TIFFANY",Administration,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5444,ESDSVP,5100,82.14,,"Assistant Director : Gardner, Stephanie",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5444,LTW04,5100,82.15,,"Assistant Director : Gardner, Stephanie",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5492,ADM04,5100,567.49,,"Chief Financial Officer (CFO) : MOSHETTE, SYDNEY",Administration,Finance
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5499,LTW08,5100,37.87,,"INTERN : DARKO, GEORGE",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5535,CMP01,5100,82.62,,"Youth Educator : Rennie, Danielle",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5537,CMP02,5100,66.18,,"Youth Educator : ROSARIO, HECTOR",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5587,FHSMB,5100,84.84,,"Head Start Assistant Teacher : SNOW DAVIS, MOET",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5694,CMP03,5100,162.98,,"Program Director : BRACY, MALICA",Department Youth & Community Development : CMP03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5738,CS-PAT,5100,125.46,,"Group Leader : SANTANA, PILAR",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5749,CMP03,5100,123.30,,"Lead Group Leader : RODRIGUEZ, DENISE",Department Youth & Community Development : CMP03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5786,LTW05,5100,22.73,,"INTERN : PIMENTEL, KAYLEEN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5804,MSE04,5100,51.63,,"Group Leader : ROSARIO, MERCEDES",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5809,CS-PAT,5100,117.63,,"Youth Educator : SPEIGHT, ELAYNE",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5852,LTW03,5100,169.87,,"Student Advisor : CONTRERAS CASTRO, AROM",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5894,LTW07,5100,181.84,,"Assistant Director : TORRES, LIZBETH",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5895,LTW01,5100,173.97,,"Assistant Director : SANTIAGO, SERGIO",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5958,FHSMH,5100,100.89,,"Head Start Assistant Teacher : Montiel, Irma",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5962,ADM06,5100,306.64,,"Human Resources Director : TORRES, MYRIAH",Administration,Human Resources
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,5966,ADM04,5100,180.34,,"Staff Accountant II : CAMMOCK, BRITNEY",Administration,Finance
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6033,SSS17,5100,191.25,,"Program Director : OROPEZA CHAVEZ, STEPHANIE",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6041,ADM06,5100,100.60,,"Onboarding Specialist : Vilorio, Nathalee",Administration,Human Resources
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6041,LTW04,5100,21.56,,"Onboarding Specialist : Vilorio, Nathalee",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6041,LTW07,5100,21.56,,"Onboarding Specialist : Vilorio, Nathalee",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6116,CMP02,5100,62.35,,"Youth Educator : TORRES, ANTHONY",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6120,CSC08,5100,148.17,,"Student Advisor : WILSON, FRANK",NYC Department of Education : CSC08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6134,LTW01,5100,143.25,,"Student Advisor : SOTO, ANTONIO",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6136,CSC05,5100,167.86,,"Program Director : GARCIA, JANELLE",NYC Department of Education : CSC05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6138,HDM,5100,207.90,,"HDM Food Services Manager : Dejesus, Sarah",Department For The Aging : HDM,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6142,LTW05,5100,30.29,,"INTERN : DURHAM, JUSTIN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6165,CSC03,5100,142.99,,"Student Advisor : BROWN, JEFFREY",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6165,MSE04,5100,18.82,,"Student Advisor : BROWN, JEFFREY",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6192,LTW03,5100,50.49,,"INTERN : ARCHER, JESSICA",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6197,LTW07,5100,37.87,,"INTERN : ALVAREZ, BRIANNA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6209,LTW08,5100,18.93,,"INTERN : MCCLEARY, TIARRA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6219,CS-MIL,5100,87.27,,"Youth Educator : POWELL, JORDON",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6221,MSE02,5100,32.82,,"Activity Specialist : RAMOS, DESIREE",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6222,MSE02,5100,8.03,,"Education Specialist : FERNANDEZ, LINDA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6233,ESDSVP,5100,40.95,,"Student Advisor : Agbontaen, Osazuwa",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6233,LTW01,5100,95.54,,"Student Advisor : Agbontaen, Osazuwa",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6237,MSE05,5100,68.85,,"Youth Educator : ABREU, FAITH",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6238,CMP02,5100,57.37,,"Youth Educator : Brown, Anaya",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6257,CMP04,5100,123.39,,"Program Assistant : BACCHAS, XION",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6260,LTW06,5100,37.86,,"INTERN : DOTTAVI, CHRISTOPHER",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6289,CS-MIT,5100,98.30,,"Youth Educator : HUNTER, ISAIAH",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6357,LTW08,5100,18.94,,"INTERN : ATAKOURA, SOUMEA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6358,LTW08,5100,18.93,,"INTERN : NOESI, LUIS",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6374,LTW04,5100,153.48,,"Student Advisor : MORRIS, JANAYHA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6390,LTW07,5100,37.87,,"INTERN : HENDERSON, DASHAWN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6401,LTW06,5100,141.57,,"Student Advisor : Bruce, Akua",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6404,CSC07,5100,134.17,,"Student Advisor : David, Raheem",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6405,CSC03,5100,38.85,,"Student Advisor : Alsina, Alexander",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6426,CMP04,5100,69.99,,"Youth Educator : RODRIGUEZ, JOHANNA",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6430,CMP01,5100,12.62,,"Youth Educator : NEWMAN, MELANIE",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6446,CS-MIT,5100,6.73,,"Activity Specialist : Beatriz, Sanchez",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6454,LTW07,5100,37.87,,"INTERN : VELAZQUEZ, JONATHAN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6461,PSP01-608,5100,25.25,,"INTERN : BURGOS, EUDIS",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6487,CMP04,5100,85.18,,"Education Director : BROWN, KAREN",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6487,FHSMH,5100,198.74,,"Education Director : BROWN, KAREN",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6505,LTW05,5100,18.93,,"INTERN : MARTE, YANELY",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6515,ADM02,5100,259.50,,"Information Technology (IT) Manager : Montalban, Mervin",Administration,Technology
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6515,LTW04,5100,32.44,,"Information Technology (IT) Manager : Montalban, Mervin",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6515,LTW07,5100,32.44,,"Information Technology (IT) Manager : Montalban, Mervin",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6517,LTW05,5100,28.41,,"INTERN : Henriquez, Wehiliani",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6550,LTW08,5100,18.94,,"INTERN : ARRIOLA, JANICE",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6564,LTW04,5100,37.87,,"INTERN : RIVAS, DIEGO",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6567,FHSMH,5100,153.97,,"Early Head Start Teacher : GREEN, DANAE",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6576,CMP04,5100,67.45,,"Youth Educator : CORREA, JOSHUA",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6584,DFTA1-MEL,5100,99.45,,"Kitchen Aide : TIGRERO, RITA",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6591,LTW08,5100,15.15,,"INTERN : VELASQUEZ, NELSON",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6592,LTW08,5100,9.47,,"INTERN : KORTRIGHT, JAYDEN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6612,FHSADM,5100,218.22,,"Facilities Manager : MAYBANK, LAMEKOWITZ",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6634,LTW01,5100,136.06,,"Student Advisor : HARRIGAN-BRANTLEY, KYLAH",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6636,CSC08,5100,140.80,,"Student Advisor : COKER, BRITTNEY",NYC Department of Education : CSC08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6648,LTW08,5100,18.93,,"INTERN : ADAMES, KAREEM",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6653,MSE02,5100,18.36,,"Group Leader : CARRION, JONATHAN",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6655,FHSEO,5100,286.40,,"Education Director : GRIFFIN, BRIANNA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6674,DFTA2-PATT,5100,115.65,,"Program Coordinator : HUNTER, LASHAWN",Department For The Aging : DFTA2,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6681,DFTA4-BOR,5100,67.23,,"Program Assistant : Ayala, Taina",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6685,CSC07,5100,137.45,,"Student Advisor : Soto, Juliann",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6688,LTW07,5100,37.86,,"INTERN : VERAS, JALINDI",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6745,LTW07,5100,37.87,,"INTERN : ALFIERI JR, MARK",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6766,CMP04,5100,82.81,,"Youth Educator : BURNS, TRAVIS",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6798,LTW05,5100,22.71,,"INTERN : Henriquez, Terisha",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6801,CMP04,5100,74.59,,"Group Leader : MARTINEZ, NAYELY",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6802,CMP04,5100,76.50,,"Group Leader : Sanchez, Nailea",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6813,LTW05,5100,34.08,,"INTERN : FABIAN, EDGAR",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6814,FHSMH,5100,99.52,,"Head Start Assistant Teacher : ADAMES, HILDA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6818,SSS17,5100,25.24,,"Group Leader : ROBINSON, MYA",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6825,SSS12,5100,25.25,,"Group Leader : Cruz, Alissa",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6826,SSS17,5100,25.24,,"Group Leader : OSEI, SAMUELA",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6835,FHSCP,5100,109.32,,"Family Worker : SANTOS, AMBER",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6845,MSE03,5100,45.14,,"Group Leader : JOHNSON, OMAR",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6847,CSC10,5100,148.74,,"Student Advisor : Minier, Sharlene",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6851,CMP05,5100,49.73,,"Group Leader : RIQUELME, JOSE",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6861,CSC10,5100,147.86,,"Student Advisor : Hernandez, Isai",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6873,CSC10,5100,191.25,,"Program Director : CRUZ, LYTHZA",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6876,OC120,5100,174.13,,"IT System Administrator : Polanco, Cristian Junior",Office of Children and Family Services : OC120,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6886,CMP04,5100,73.64,,"Activity Specialist : HEYWOOD ROBERTS, KATA",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6898,FHSWW,5100,99.15,,"Family Worker : Torres, Sorangel",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6916,ADM01,5100,161.70,,"Volunteer Engagement Coordinator : WILLIAMS, ELOISE",Administration,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6917,ALE,5100,116.93,,"Education Services Manager-PSP : Micelli, Ali",NYS Department of Education : ALE,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6917,ALP01,5100,77.97,,"Education Services Manager-PSP : Micelli, Ali",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6925,FHSCP,5100,62.64,,"Custodian : Windham, Trevone",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6928,MSE02,5100,53.17,,"Group Leader : MARTINEZ, ADRIANA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6943,LTW07,5100,37.87,,"INTERN : OROZCO, ARTURO",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6949,ALE,5100,100.66,,"Instructor : Jimenez, Michael",NYS Department of Education : ALE,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6949,ALP01,5100,67.11,,"Instructor : Jimenez, Michael",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6951,MSE02,5100,40.93,,"Group Leader : ALBINO, JOANA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6960,JPLUS,5100,181.83,,"Education Specialist : STONE, KEVIN",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6961,PSP01-608,5100,149.45,,"College Retention Specialist : CONSTANZA SANTANA, EOANNA",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,6995,PSP01-608,5100,6.30,,"INTERN : MEJIA, JULIANY",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7005,LTW05,5100,18.94,,"INTERN : MELO, TIFANY",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7006,CMP01,5100,20.84,,"Youth Educator : Peralta, Libby",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7006,CMP05,5100,20.85,,"Youth Educator : Peralta, Libby",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7026,LTW04,5100,37.87,,"INTERN : JACKSON, KRYST",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7034,LTW07,5100,37.87,,"INTERN : TUNKARA, FATOUMATA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7040,LTW08,5100,27.78,,"INTERN : AKTHER, SYEDA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7046,LTW08,5100,13.89,,"INTERN : COMPAORE, DAWUD",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7047,LTW08,5100,17.04,,"INTERN : ASHMEADE, AZAIRIAH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7049,LTW07,5100,136.44,,"Student Advisor : Rivera, Jaylene",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7050,LTW05,5100,26.50,,"INTERN : RAMIREZ, HAILEY",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7063,LTW04,5100,37.86,,"INTERN : ROCHTTIS HOLGUIN, DAVANEE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7074,LTW08,5100,18.94,,"INTERN : Diarrassouba, Nawa",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7075,CS-MIL,5100,60.05,,"Group Leader : MENA, TAMISHA",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7094,CS-PAT,5100,102.00,,"Custodian : Ramos, Elizabeth",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7096,LTW04,5100,37.87,,"INTERN : AROCA VALENZUELA, FAUSTO",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7102,LTW04,5100,37.87,,"INTERN : CLARKE, JAYDEN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7124,LTW04,5100,37.87,,"INTERN : ONEAL, MALKA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7130,ADM06,5100,145.31,,"Human Resources Assistant : Hicks, Shemaine",Administration,Human Resources
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7140,LTW08,5100,15.16,,"INTERN : ESTRELLA, WILIANNY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7148,CMP01,5100,83.11,,"Program Director : Camacho, Angel",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7148,CMP05,5100,83.13,,"Program Director : Camacho, Angel",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7159,CSC09,5100,133.05,,"Student Advisor : Hernandez, Elvis",NYC Department of Education : CSC09,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7167,MSE05,5100,53.55,,"Group Leader : GOMEZ SANCHEZ, THANIA",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7172,CMP01,5100,18.93,,"Youth Educator : VALERA, DAHIANA",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7172,CMP05,5100,18.94,,"Youth Educator : VALERA, DAHIANA",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7174,LTW07,5100,37.87,,"INTERN : MONTALVO, IZAIAH",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7191,FHSMH,5100,249.89,,"Director of Family Services : BASQUIAT, MICHELE",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7198,LTW07,5100,37.87,,"INTERN : CISSE,MAMOUROU",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7199,LTW08,5100,18.92,,"INTERN : BODDEN, RIHANNA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7203,LTW08,5100,15.78,,"INTERN : LEE, CHRISTIAN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7207,LTW07,5100,37.86,,"INTERN : GIL, EMANUEL",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7216,LTW07,5100,37.86,,"INTERN : FRANQUI, ATHENA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7226,CMP05,5100,21.42,,"Youth Educator : JULIEN, ZANIYA",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7229,LTW08,5100,17.04,,"INTERN : RAMON, DESTINY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7230,JPLUS,5100,113.98,,"Career Coach : SMITH, SHADEA",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7240,MSE03,5100,52.40,,"Group Leader : CONTRERAS, LIBANNY",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7255,CHT99,1905,525.93,,"Principal-Haven Charter High School : MENDEZ, LUCINDA",Haven Charter High School,Administration
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7260,CMP01,5100,56.61,,"Youth Educator : Duran, Jadeline",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7261,DFTA1-MEL,5100,76.55,,"Program Assistant : MUNOZ, NAIMAH",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7264,LTW04,5100,37.87,,"INTERN : DAYE, JAHKEBRA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7285,LTW07,5100,37.87,,"INTERN : CLASE, AVA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7291,JPLUS,5100,115.49,,"Engagement Specialist : MARTINEZ, MARGARET",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7293,LTW07,5100,37.87,,"INTERN : TROCHE, ANNAYHA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7295,CMP01,5100,56.61,,"Youth Educator : Perez, Destiny",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7296,LTW03,5100,36.59,,"INTERN : GONZALEZ, JASON",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7303,EHSEO,5100,177.52,,"Early Head Start Teacher : ALBONIGA, VANESSA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7311,ADM06,5100,183.54,,"Human Resources Generalist : ARROYO, ODILE",Administration,Human Resources
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7315,MSE05,5100,120.80,,"Program Assistant : ESPINAL SANTANA, NICOLE",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7332,CMP03,5100,60.43,,"Youth Educator : ONEAL, CAILYN",Department Youth & Community Development : CMP03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7353,SSS17,5100,25.25,,"INTERN : GONZALEZ, JENNIFER",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7355,SSS17,5100,25.25,,"INTERN : BAUTISTA, ABIGAIL",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7356,SSS17,5100,25.24,,"INTERN : VERAS, ROBERT",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7357,SSS17,5100,37.23,,"INTERN : ROSARIO MARTINEZ, VLAINER",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7358,SSS17,5100,25.24,,"INTERN : ISLAMORA, MUSLIMAKHON",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7360,SSS12,5100,25.24,,"Group Leader : MATOS ESQUILIN, AELEEN",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7361,SSS12,5100,25.25,,"Group Leader : Rice, Charlie",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7362,SSS12,5100,25.24,,"Group Leader : HENDRICKS, KATHRYN",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7364,SSS12,5100,25.24,,"Group Leader : Cuatlacuatl-Alonso, Gustavo",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7367,ADM06,5100,222.56,,"Senior Human Resources Generalist : MERCADO, LYNDA",Administration,Human Resources
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7368,SSS17,5100,25.25,,"Group Leader : FRIAS HERNANDEZ, JEIHNALIE",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7377,SSS12,5100,25.24,,"Group Leader : HAWKINS, FAITH",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7378,LTW05,5100,11.36,,"INTERN : PEREZ SANTANA, KEILA",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7379,EHSCP,5100,254.30,,"Education Director : SANABRIA, ERICA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7380,MSE05,5100,81.09,,"Group Leader : DOMINGUEZ, RASHELY",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7381,MSE05,5100,56.61,,"Group Leader : RODRIGUEZ, ANGEL",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7382,CMP05,5100,57.76,,"Youth Educator : VERAS, MASSIEL",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7392,LTW05,5100,152.30,,"Student Advisor : GARCIA GUILAMO, KATHERINE",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7393,LTW05,5100,146.14,,"Student Advisor : CUELLO, KENDRICK",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7394,SSS19,5100,199.29,,"Program Director : PICHARDO, LEANN",NYC Department of Education : SSS19,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7400,FHSEO,5100,17.66,,"Head Start Assistant Teacher : GAYMON, KIMORA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7401,FHSWW,5100,118.96,,"Head Start Assistant Teacher : CAMPBELL, JENNIFER",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7414,MSE02,5100,53.16,,"Group Leader : BURGOS, ARIANNY",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7416,CSC07,5100,169.88,,"Assistant Director : MUNOZ, ERIC",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7422,MSE04,5100,78.24,,"Group Leader : LOPEZ, JANAYA",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7430,LTW03,5100,37.87,,"INTERN : HERRERA, JADE",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7434,LTW01,5100,132.43,,"Student Advisor : MERCADO, SHANTEL",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7435,LTW03,5100,50.49,,"INTERN : SKERVING, GODDELL LANNAEUS",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7442,LTW04,5100,141.13,,"Student Advisor : BAMBERA, FATOUMATA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7443,LTW07,5100,37.87,,"INTERN : KOUANDA, ADNAN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7450,LTW03,5100,50.49,,"INTERN : CASTILLO, ELIEZER",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7454,ADM04,5100,196.71,,"Accounts Payable/Procurement Associate : DAISON, SHELAYNE",Administration,Finance
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7455,FHSMH,5100,207.79,,"Head Start Teacher : ARIAS, MARIA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7456,FHSWW,5100,87.57,,"Head Start Assistant Teacher : BONAPARTE, MADISON",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7461,LTW03,5100,50.49,,"INTERN : PENA, YOLENNY",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7467,LTW08,5100,18.94,,"INTERN : THOMAS, KIMBERLY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7469,LTW08,5100,18.92,,"INTERN : COULIBALY, ABY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7473,LTW04,5100,37.86,,"INTERN : LEE, AUSTIN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7475,LTW07,5100,147.15,,"College Counselor : BRANDON, JOVENIA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7476,LTW04,5100,37.87,,"INTERN : CISSE, KERFALLA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7484,DFTA4-BOR,5100,168.83,,"Program Director : CALLAWAY, CRYSTAL",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7487,LTW03,5100,37.86,,"INTERN : CASTRO, WILMIN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7489,LTW04,5100,37.87,,"INTERN : DIAZ, JAZLYN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7490,LTW03,5100,50.49,,"INTERN : CAMPOS, HEAVEN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7491,LTW07,5100,37.87,,"INTERN : KELTA, MAJOU",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7502,LTW07,5100,37.86,,"INTERN : SMITH, MARIYAH",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7504,LTW07,5100,37.87,,"INTERN : SANDOVAL, JAMILET",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7505,LTW07,5100,37.86,,"INTERN : CANDELARIO, ANDREW",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7506,LTW07,5100,37.87,,"INTERN : NUNEZ, VICTORIA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7511,LTW03,5100,50.49,,"INTERN : CRUZ, JEZABELLE",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7512,LTW08,5100,169.41,,"Assistant Director : BAUZILE, RICARDO",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7513,LTW04,5100,37.86,,"INTERN : CISSE, MOUHAMED",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7514,LTW04,5100,37.87,,"INTERN : MERCEDES, MYAH",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7515,LTW04,5100,37.87,,"INTERN : RIVERA, VICK",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7516,LTW04,5100,37.87,,"INTERN : LUNA CORDERO, ARIANNIE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7517,CMP01,5100,77.64,,"Youth Educator : BLACKWELL, NAHJA",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7535,LTW08,5100,15.15,,"INTERN : RAMIREZ, DERLIN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7540,MSE03,5100,51.26,,"Group Leader : DOMINGUEZ, ADAYS",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7544,LTW05,5100,37.87,,"INTERN : MOTA, RENATO",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7547,SSS17,5100,148.21,,"College Counselor : RIVERA, CHRISTAURY",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7551,LTW04,5100,37.87,,"INTERN : APPIAH, THEOPHILUS",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7552,MSE02,5100,148.96,,"Program Director : BELTRAN, KAYLA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7553,LTW04,5100,37.87,,"INTERN : BERBERENA, NESSANDRA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7554,LTW08,5100,132.42,,"Student Advisor : COLON GARAY, SHANNON",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7557,LTW04,5100,37.86,,"INTERN : GUITY, RAYLEEN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7559,LTW08,5100,132.43,,"Student Advisor : DELGADILLO, RAFAEL",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7560,LTW04,5100,37.87,,"INTERN : GIBBS, MADISON",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7561,LTW04,5100,37.87,,"INTERN : UDDIN, TAHA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7564,LTW04,5100,37.87,,"INTERN : MEJIA, VICTOR",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7566,JPLUS,5100,174.20,,"Clinical and Wellness Coordinator : ELI, JESELLE",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7567,LTW04,5100,37.87,,"INTERN : ORTEGA, DULCE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7571,LTW04,5100,37.86,,"INTERN : PADILLA, KRISTEN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7576,PSP01-608,5100,11.36,,"INTERN : NDIAYE, CHERIF",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7578,PSP01-608,5100,39.14,,"INTERN : EALY, FRANKLIN",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7580,PSP01-608,5100,50.49,,"INTERN : SAMUEL, SHAYA",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7582,LTW04,5100,37.86,,"INTERN : NOWRIN, NADIA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7583,LTW04,5100,37.87,,"INTERN : PEREZ, IVAN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7584,LTW04,5100,37.87,,"INTERN : VELEZ, MIA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7586,LTW04,5100,37.87,,"INTERN : HENRIQUEZ, EDYSE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7587,LTW04,5100,37.87,,"INTERN : NIEVES, SAMANTHA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7592,LTW03,5100,131.90,,"Student Advisor : TAYLOR, ZARQUIN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7594,JPLUS,5100,180.89,,"Education Specialist : LEBO, DANIEL",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7597,LTW08,5100,18.94,,"INTERN : MARTINEZ, BEYONCE",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7599,LTW07,5100,37.87,,"INTERN : TOLENTINO, ONNELLY",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7613,CS-MIL,5100,145.03,,"Assistant Director : EVANS, DAUNTAE",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7617,FHSWW,5100,239.46,,"Education Director : LAWRENCE, YOLANDA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7618,PSP01-608,5100,25.25,,"INTERN : LOPEZ, RUBEN",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7620,LTW08,5100,18.93,,"INTERN : SANTOS, OSCAR",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7621,LTW08,5100,15.15,,"INTERN : PERALTA, KELVIN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7622,LTW07,5100,37.87,,"INTERN : CAMPBELL, ANGELO",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7623,LTW07,5100,37.87,,"INTERN : MCLAIN, QUWAN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7624,LTW07,5100,37.87,,"INTERN : KANTE, MOUSSA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7634,LTW07,5100,37.86,,"INTERN : TOURE, ABDOULAYE",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7635,LTW07,5100,37.87,,"INTERN : CRUZ, MADISON",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7636,LTW07,5100,37.86,,"INTERN : COLON, MIKAILI",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7642,LTW04,5100,37.86,,"INTERN : LOPEZ, DUANYFER",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7646,LTW08,5100,6.32,,"INTERN : SANCHEZ, KEVIN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7649,LTW08,5100,20.19,,"INTERN : PEREZ OLIVARES, ELENY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7651,CS-MIL,5100,92.18,,"Group Leader : CANNADY, TRISTAN",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7652,LTW08,5100,18.93,,"INTERN : RAMIREZ, YUVIRITH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7653,LTW08,5100,22.72,,"INTERN : PENA, LUIS",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7654,LTW08,5100,17.04,,"INTERN : FELIZ, ERICK",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7656,LTW08,5100,22.72,,"INTERN : BERBERENA, ALEX",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7658,LTW07,5100,37.86,,"INTERN : SANCHEZ, BREANNA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7659,CS-PAT,5100,65.03,,"Group Leader : ALVAREZ, SHABORN",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7664,LTW04,5100,37.87,,"INTERN : DELESLINE, DEVIN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7672,LTW04,5100,37.87,,"INTERN : LINTON, TANIQUE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7673,LTW04,5100,37.87,,"INTERN : MUNIZ, LEIANA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7674,LTW04,5100,37.87,,"INTERN : PINET, ANGEL",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7678,LTW08,5100,22.71,,"INTERN : CASTRO, ALAN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7679,CMP05,5100,52.40,,"Youth Educator : ORTIZ, SHANTELL",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7685,LTW04,5100,37.86,,"INTERN : JOSHUA, DARRYL",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7686,LTW04,5100,37.86,,"INTERN : WHITE, BRIANNA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7687,LTW04,5100,37.86,,"INTERN : COULIBALY, MAHAMADU",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7689,PSP01-608,5100,60.60,,"INTERN : HARMON, ALANNA",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7693,PSP01-608,5100,50.49,,"INTERN : REYES, RICIANA",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7694,LTW05,5100,13.88,,"INTERN : ALBERT, NEVAEH",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7700,ADM04,5100,353.08,,"Controller : LORQUET, BIANCA",Administration,Finance
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7701,CMP04,5100,83.00,,"Youth Educator : DARK, CRYSTA",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7702,LTW07,5100,37.87,,"INTERN : MELENDEZ, HONESTI",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7705,JPLUS,5100,58.20,,"Community Coach : FERNÁNDEZ, JEREMIAH",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7706,LTW07,5100,37.87,,"INTERN : WEIR, RACQUILLE",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7708,PSP01-608,5100,58.07,,"INTERN : TORRES, ISIS",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7710,LTW08,5100,18.93,,"INTERN : NIN ROA, AISHA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7713,LTW08,5100,22.09,,"INTERN : HOSTOS, JONATHAN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7715,LTW03,5100,50.49,,"INTERN : SANCHEZ, JEREMY-AXEL",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7716,LTW04,5100,37.87,,"INTERN : ALI, RAKIB",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7717,LTW04,5100,37.87,,"INTERN : DIALLO, ELHADJ",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7719,LTW04,5100,37.86,,"INTERN : GOMES, JAHSHIM",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7723,LTW06,5100,5.05,,"INTERN : PICKINGS, HALEY",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7724,LTW04,5100,37.87,,"INTERN : SANCHEZ, NATALY",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7725,LTW04,5100,37.87,,"INTERN : SEGAR, JULLEEZ",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7727,LTW04,5100,37.87,,"INTERN : TORRES, YADIEL",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7728,LTW04,5100,37.87,,"INTERN : GASKIN, RONALDO",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7730,PSP01-608,5100,50.49,,"INTERN : GRANT, AMAIYAH",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7731,PSP01-608,5100,50.49,,"INTERN : SWINTON, BRYANA",Altman,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7733,LTW07,5100,37.87,,"INTERN : HERNANDEZ, KRYSTAL",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7735,FHSMH,5100,120.89,,"Custodian : KLU, JUSTICE",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7736,LTW04,5100,37.87,,"INTERN : LEON, CHARLIZE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7742,LTW08,5100,22.72,,"INTERN : ORTIZ, JOSEPH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7743,LTW07,5100,37.87,,"INTERN : OLIVARES, ABDISON",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7744,ADM02,5100,170.66,,"IT Tech Support : BARRIE, MOHAMED",Administration,Technology
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7745,LTW07,5100,37.86,,"INTERN : CASTILLO, WASANI",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7746,LTW08,5100,3.79,,"INTERN : SENCION, ADRIAH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7747,DFTA1-MEL,5100,76.24,,"Case Worker : ACEVEDO, NASHALIE",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7749,LTW07,5100,37.87,,"INTERN : SUGRI, AHMED",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7751,DFTA4-BOR,5100,102.00,,"Case Worker : RAMOS, BENJAMIN",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7752,LTW08,5100,19.88,,"INTERN : VILLALOBOS, JASLYN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7753,CSC07,5100,136.34,,"Student Advisor : TEJEDA, DORIAN",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7757,CSC10,5100,161.82,,"Assistant Director : ACOSTA, BYRON",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7759,LTW08,5100,33.13,,"INTERN : BARRY, MAMADOU",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7760,LTW08,5100,18.94,,"INTERN : STEWART, DEMYHA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7761,LTW05,5100,27.77,,"INTERN : PENA, NICOLE",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7762,LTW05,5100,22.09,,"INTERN : GARCIA, SHAYLEEN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7765,JPLUS,5100,39.78,,"Community Coach : STARKES, VINCENT",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7766,LTW05,5100,27.77,,"INTERN : ANDUJAR, YANIBELL",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7767,CMP01,5100,68.09,,"Youth Educator : TIBAN, KEILY",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7768,LTW03,5100,44.18,,"INTERN : STRONG, CAMREN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7769,LTW05,5100,37.87,,"INTERN : MERCADO, ALIYAAH",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7771,FHSCP,5100,102.94,,"Custodian : DAVIS, LAMONT",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7772,FHSMB,5100,91.54,,"Head Start Assistant Teacher : VAZQUEZ, MARIA",Head Start,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7773,LTW05,5100,22.72,,"INTERN : REYES, ALYSSA",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7774,LTW03,5100,50.49,,"INTERN : VELASQUEZ, BLADIMIR",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7775,LTW03,5100,50.49,,"INTERN : TORRES, JASMIN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7776,LTW03,5100,50.49,,"INTERN : MARTINEZ, NICHOLLE",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7778,LTW05,5100,18.94,,"INTERN : FERGUSON, DONNELL",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7781,JPLUS,5100,40.56,,"Community Coach : ACOSTA, JOSEPH",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7784,LTW08,5100,34.08,,"INTERN : MEDINA, FRANCIEL",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7786,LTW08,5100,18.94,,"INTERN : BRIGGS, JARIYAH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7790,LTW05,5100,29.66,,"INTERN : CAMINERO, JENDY",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7791,LTW05,5100,7.58,,"INTERN : DE JESUS MONTERO, JUAN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7802,LTW08,5100,15.15,,"INTERN : ARRIOLA, JASLINE",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7804,LTW03,5100,37.87,,"INTERN : CAMILO REYNOSO, CHRISTHOFER",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7820,LTW05,5100,11.99,,"INTERN : DELVALLE, JAYDEN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7821,LTW03,5100,11.36,,"INTERN : HERNANDEZ, ALBERT",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,7822,DFTA4-BOR,5100,156.11,,"Cook : PARKES, DAVIAN",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM5,PR061825FICA,FICA - 6/2/25 to 6/15/25,Jun 2025,,,2155,,42045.04,,,

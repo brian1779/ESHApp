@@ -1,0 +1,8 @@
+/Users/mehim/Documents/ESH/project/ESHApp/obj/Debug/net7.0/ESHApp.csproj.AssemblyReference.cache
+/Users/mehim/Documents/ESH/project/ESHApp/obj/Debug/net7.0/ESHApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehim/Documents/ESH/project/ESHApp/obj/Debug/net7.0/ESHApp.AssemblyInfoInputs.cache
+/Users/mehim/Documents/ESH/project/ESHApp/obj/Debug/net7.0/ESHApp.AssemblyInfo.cs
+/Users/mehim/Documents/ESH/project/ESHApp/obj/Debug/net7.0/ESHApp.csproj.CoreCompileInputs.cache
+/Users/mehim/Documents/ESH/project/ESHApp/obj/Debug/net7.0/ESHApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/mehim/Documents/ESH/project/ESHApp/obj/Debug/net7.0/ESHApp.RazorAssemblyInfo.cache
+/Users/mehim/Documents/ESH/project/ESHApp/obj/Debug/net7.0/ESHApp.RazorAssemblyInfo.cs

@@ -1,0 +1,501 @@
+ExternalID,Header Memo,Posting Period,Memo-Line,Constituent/Project,Segment Code,Account,Debit,Credit,Employee title,Customer,Dept
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,51 Hrs. 6/2 to 6/15,37,ADM05,5050,1173.00,,"Custodian : Torres, Malinda",Administration,Operations
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,46,ADM01,5000,15057.68,,"Executive Director : Diaz, Daniel",Administration,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.45 Hrs. 6/2 to 6/15,61,ADM05,5000,2183.64,,"Maintenance Supervis : Acosta, Juan",Administration,Operations
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,68,ADM01,5000,8474.90,,"Associate Executive : LOZADA-RAMIREZ, NATALIE",Administration,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,73.53 Hrs. 6/2 to 6/15,97,FHSMH,5000,1444.13,,"Head Start Assistant Teacher : Collins, Ronnie",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,73.08 Hrs. 6/2 to 6/15,103,EHSCP,5000,1836.50,,"Head Start Assistant Teacher : Pagan, Zaida",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.78 Hrs. 6/2 to 6/15,113,FHSMH,5000,1828.96,,"Head Start Teacher : Perkins, Julie",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,76.08 Hrs. 6/2 to 6/15,120,EHSWW,5000,1567.25,,"Cook : Crespo, Vilma",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,121,FHSADM,5000,3823.83,,"Director of Program Operations : Chavez, Maritza",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,74.37 Hrs. 6/2 to 6/15,128,FHSWW,5000,2952.49,,"Head Start Teacher : Rosado, Juanita",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,77.02 Hrs. 6/2 to 6/15,135,FHSMB,5000,3057.69,,"Head Start Teacher : Pena, Nancy",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,186,CMP01,5000,530.35,,"Department Director : Mejia, Amber",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,186,CSC04,5000,530.35,,"Department Director : Mejia, Amber",NYC Department of Education : CSC04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,186,CSC08,5000,530.35,,"Department Director : Mejia, Amber",NYC Department of Education : CSC08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,186,CSC09,5000,530.35,,"Department Director : Mejia, Amber",NYC Department of Education : CSC09,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,186,MSE03,5000,353.57,,"Department Director : Mejia, Amber",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,186,MSE04,5000,353.57,,"Department Director : Mejia, Amber",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,186,MSE05,5000,707.12,,"Department Director : Mejia, Amber",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,270,CHT99,1905,3432.68,,"Director of Operations-HCHS : GOMEZ, DELIANA",Haven Charter High School,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,273,CMP04,5050,680.00,,"Custodian : DILONE, JOSE",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12.94 Hrs. 6/2 to 6/15,295,NSP-MI,5050,297.84,,"Activity Specialist : Kimbrough, Gerald",Department Youth & Community Development : NSP-MI,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12.03 Hrs. 6/2 to 6/15,295,SNL,5050,276.58,,"Activity Specialist : Kimbrough, Gerald",Department Youth & Community Development : SNL-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12.03 Hrs. 6/2 to 6/15,295,SNL-PA,5050,276.58,,"Activity Specialist : Kimbrough, Gerald",Department Youth & Community Development : SNL-PAT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.36 Hrs. 6/2 to 6/15,420,FHSMB,5000,1281.77,,"Head Start Assistant Teacher : Skinner, Regina",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,49.75 Hrs. 6/2 to 6/15,574,ADM05,5050,895.50,,"Custodian : Gonzalez, Maria",Administration,Operations
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,752,HDM,5000,2474.79,,"Warehouse Manager : Shears, Diandra",Department For The Aging : HDM,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,787,ADM03,5000,6038.45,,"Director of Development : Rodriguez, Diana",Administration,Development
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12.6 Hrs. 6/2 to 6/15,803,ALE,5000,879.95,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",NYS Department of Education : ALE,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,803,CMP01,5000,488.85,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,8.4 Hrs. 6/2 to 6/15,803,EMP03,5000,586.62,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Office of Children and Family Services : EMP03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,803,MSE02,5000,733.28,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,803,MSE03,5000,733.28,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,803,MSE04,5000,733.28,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,803,MSE05,5000,733.28,,"Deputy Director : RIVERA-TAYLOR, TAMIKA",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,6.3 Hrs. 6/2 to 6/15,1118,ALP01,5000,253.95,,"Social Worker Exempt : Thompson, Marangely",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,24.5 Hrs. 6/2 to 6/15,1118,ALP02,5000,987.60,,"Social Worker Exempt : Thompson, Marangely",Department Youth & Community Development : ALP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,39.2 Hrs. 6/2 to 6/15,1118,DFTA1-MEL,5000,1580.16,,"Social Worker Exempt : Thompson, Marangely",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70.59 Hrs. 6/2 to 6/15,1128,CMP02,5000,1761.93,,"Assistant Director : Gomez, Alex",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,1196,ADM03,5000,3367.31,,"Director of Government Relations : Nottingham, Dontai",Administration,Development
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,1197,CS-MIT,5050,180.00,,"Group Leader : Carter, Jason",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,4 Hrs. 6/2 to 6/15,1197,SNL,5050,80.00,,"Group Leader : Carter, Jason",Department Youth & Community Development : SNL-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,39 Hrs. 6/2 to 6/15,1317,CS-MIL,5050,780.00,,"Activity Specialist : Jackson, Najea",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,1378,CS-MIT,5000,2686.07,,"Program Director : Barbosa, Omar",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,1424,ADM04,5000,773.77,,"Payroll Manager : Mcleod, Barrett",Administration,Finance
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,1424,LTW01,5000,580.32,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,1424,LTW03,5000,580.32,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,1424,LTW04,5000,386.88,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,1424,LTW05,5000,386.88,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,1424,LTW07,5000,580.32,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.5 Hrs. 6/2 to 6/15,1424,LTW08,5000,580.32,,"Payroll Manager : Mcleod, Barrett",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.46 Hrs. 6/2 to 6/15,1542,FHSMH,5000,1572.83,,"Early Head Start Teacher : HIDALGO BRAVO, LUZ",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,75.07 Hrs. 6/2 to 6/15,1554,DFTA1-MEL,5000,2159.01,,"Assistant Director : Puerto, Carol",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,21.25 Hrs. 6/2 to 6/15,1578,MSE05,5050,892.50,,"Education Specialist : ROMAN, ENRIQUE",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.37 Hrs. 6/2 to 6/15,1638,FHSMB,5000,1308.21,,"Cook : Peralta Difod, Yokasta",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,1672,CSC09,5000,3535.66,,"Program Director : Cuello, Joel",NYC Department of Education : CSC09,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,1675,ADM01,5000,3653.84,,"Executive Assistant : Morel, Erika",Administration,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,1801,CSC04,5000,3210.18,,"Program Director : Chavez Tejada, Patricia",NYC Department of Education : CSC04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,42.25 Hrs. 6/2 to 6/15,1813,DFTA4-BOR,5050,732.19,,"Custodian : Cordon, Santa",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,47.75 Hrs. 6/2 to 6/15,1819,CMP02,5050,955.00,,"Youth Educator : Santiago, Emmanuel",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11.9 Hrs. 6/2 to 6/15,1835,EHSADM,5000,903.02,,"Deputy Director : HEYWARD, DAWN",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,58.1 Hrs. 6/2 to 6/15,1835,FHSADM,5000,4408.89,,"Deputy Director : HEYWARD, DAWN",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,1888,ESDSVP,5000,377.96,,"Department Director : Birkeland, Brian",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,1888,LTW01,5000,485.95,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,1888,LTW03,5000,485.93,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,1888,LTW04,5000,485.95,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,1888,LTW05,5000,485.95,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,1888,LTW06,5000,485.95,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,1888,LTW07,5000,485.95,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,1888,LTW08,5000,485.95,,"Department Director : Birkeland, Brian",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,1936,LTW06,5000,2998.53,,"Program Director : Alvarez Plaud, Natalia",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,55.25 Hrs. 6/2 to 6/15,2047,CMP04,5050,1105.00,,"Youth Educator : Calvin, Melquan",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70.74 Hrs. 6/2 to 6/15,2192,JPLUS,5000,1802.46,,"Program Assistant : BLAKE, CHERYLE",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,2227,CS-MIL,5000,466.48,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,2227,CS-MIT,5000,466.48,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,2227,CS-PAT,5000,466.48,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,2227,MSE03,5000,466.48,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,2227,MSE05,5000,466.48,,"Education Specialist : VELEZ, COLLEN",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,2261,CMP04,5000,2412.72,,"Program Director : VIGILANCE, SHANTEL",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,2262,ADM04,5000,3327.68,,"GRANT ACCOUNTANT II : CAPELLAN, NELSON",Administration,Finance
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.9 Hrs. 6/2 to 6/15,2263,MSE02,5000,2109.00,,"Assistant Director : STEPHEN, MONIQUE",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.82 Hrs. 6/2 to 6/15,2357,EHSWW,5000,1357.40,,"Head Start Assistant Teacher : White, Audrey",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,63 Hrs. 6/2 to 6/15,2461,CSC03,5000,2246.20,,"Assistant Director : Aquino, Jeffrey",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11.13 Hrs. 6/2 to 6/15,2461,MSE04,5050,222.60,,"Assistant Director : Aquino, Jeffrey",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,2481,LTW07,5000,1485.57,,"Program Director : CHIEM, KATHRYN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,2481,LTW08,5000,1485.57,,"Program Director : CHIEM, KATHRYN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,2514,EMP03,5000,1423.06,,"Program Director : ARROYO, CRYSTAL",Office of Children and Family Services : EMP03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,2514,MSE05,5000,1423.08,,"Program Director : ARROYO, CRYSTAL",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18 Hrs. 6/2 to 6/15,2524,MSE05,5050,396.00,,"Activity Specialist : FORD, KIERA",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,6 Hrs. 6/2 to 6/15,2574,MSE02,5050,252.00,,"Teacher : RAMJATTAN, KATHERINE",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.99 Hrs. 6/2 to 6/15,2607,FHSWW,5000,2025.08,,"Head Start Assistant Teacher : ROGERS, TYSHA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,2935,ALE,5000,322.11,,"Director of PSP : Pinckney, Shaniyya",NYS Department of Education : ALE,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,16.1 Hrs. 6/2 to 6/15,2935,ALP01,5000,740.87,,"Director of PSP : Pinckney, Shaniyya",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,21.7 Hrs. 6/2 to 6/15,2935,ALP02,5000,998.57,,"Director of PSP : Pinckney, Shaniyya",Department Youth & Community Development : ALP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,25.2 Hrs. 6/2 to 6/15,2935,PSP01-608,5000,1159.60,,"Director of PSP : Pinckney, Shaniyya",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.49 Hrs. 6/2 to 6/15,2982,EHSCP,5000,1565.61,,"Early Head Start Assistant Teacher : White, Latifah",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,38 Hrs. 6/2 to 6/15,3117,CS-PAT,5050,760.00,,"Youth Educator : JONES, KENYA",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.75 Hrs. 6/2 to 6/15,3127,LTW06,5000,1777.23,,"Student Advisor : Paulino, Ana",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,139.09 Hrs. 6/2 to 6/15,3183,MSE03,5000,3212.98,,"Program Assistant : Taylor, Janiya",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,75 Hrs. 6/2 to 6/15,3184,LTW04,5000,2143.50,,"Student Advisor : LANTIGUA, MELANIE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.82 Hrs. 6/2 to 6/15,3190,FHSWW,5000,2647.29,,"Head Start Teacher : MILLER - MOSHER, ELIZABETH",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70.61 Hrs. 6/2 to 6/15,3226,CMP01,5000,1680.52,,"Program Assistant : Ramirez Velazquez, Alma",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,3301,LTW03,5000,2971.15,,"Program Director : Ferreira, Jonathan",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,60.51 Hrs. 6/2 to 6/15,3331,FHSCP,5000,1093.42,,"Cook : ULLOA, ROCIO",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,76.08 Hrs. 6/2 to 6/15,3519,CSC09,5000,1975.80,,"Student Advisor : GOONEY, SINEAD",NYC Department of Education : CSC09,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,58.25 Hrs. 6/2 to 6/15,3602,CS-MIT,5051,1165.00,,"Group Leader : KINGSBERRY, ZAIMIA",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,28 Hrs. 6/2 to 6/15,3610,ESDSVP,5000,1231.24,,"Program Director : EDDIE, VARRELL",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,42 Hrs. 6/2 to 6/15,3610,LTW04,5000,1846.87,,"Program Director : EDDIE, VARRELL",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,3734,CMP02,5000,2750.00,,"Program Director : ALMEYDA, RA-DAYA",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,33.22 Hrs. 6/2 to 6/15,3869,PSP01-608,5000,883.64,,"Career Development Specialist : Castro, Keva",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,37.46 Hrs. 6/2 to 6/15,3869,PSP01-680,5000,996.45,,"Career Development Specialist : Castro, Keva",Heckscher Foundation,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,77.92 Hrs. 6/2 to 6/15,3895,CSC04,5000,2022.80,,"Student Advisor : MORA-AVILA, KATHERINE",NYC Department of Education : CSC04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.12 Hrs. 6/2 to 6/15,3901,CSC05,5000,1866.21,,"Student Advisor : Jones, Naquan",NYC Department of Education : CSC05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,51.25 Hrs. 6/2 to 6/15,3902,CMP02,5050,1025.00,,"Youth Educator : DAVIS, AJA",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,52.25 Hrs. 6/2 to 6/15,3912,CMP02,5050,1149.50,,"Youth Educator : BOGLIN, DAMISHA",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,48 Hrs. 6/2 to 6/15,4053,JPLUS,5050,792.00,,"Custodian : Ortiz, Timothy",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,68.25 Hrs. 6/2 to 6/15,4161,DFTA4-BOR,5000,1739.01,,"Assistant Director : ESPINOZA, DAYRA",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,55.5 Hrs. 6/2 to 6/15,4172,CMP03,5050,1110.00,,"Youth Educator : OUTLEY, BRANDON",Department Youth & Community Development : CMP03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,4317,WA01,5000,3365.38,,"Fundraising and Special Events Officer : BELLO, CHRISTINA",Winter Show,Development : Winter Show
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,4322,CSC03,5000,2896.05,,"Program Director : Rosario, Isabelle",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,54 Hrs. 6/2 to 6/15,4332,CSC04,5050,1134.00,,"Group Leader : SCRUBB, DARIA",NYC Department of Education : CSC04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.55 Hrs. 6/2 to 6/15,4413,ADM06,5000,1460.55,,"Human Resources Assistant : Saunders, Zariah Janae",Administration,Human Resources
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,34.75 Hrs. 6/2 to 6/15,4434,MSE05,5050,764.50,,"Activity Specialist : PEREZ, YOSANNY",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,4454,LTW07,5000,1872.50,,"Student Advisor : CHAMBERS, PAUL",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.04 Hrs. 6/2 to 6/15,4469,WA01,5000,2342.19,,"Development Assistant : MALDONADO, JESSICA",Winter Show,Development : Winter Show
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,85.84 Hrs. 6/2 to 6/15,4470,EHSWW,5000,1539.10,,"Custodian : MOORE, LLEDOR",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,68.97 Hrs. 6/2 to 6/15,4471,FHSMH,5000,1200.77,,"Cook : RAMOS, HOLMEDA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,4555,ADM05,5000,2625.00,,"Facilities Manager : BUJOSA, JONATHON",Administration,Operations
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,105.98 Hrs. 6/2 to 6/15,4600,SSS12,5000,3778.60,,"Program Director : HENDRICKS, KHALIL",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.48 Hrs. 6/2 to 6/15,4654,WA01,5000,1991.75,,"Junior Communications Assistant : Barakat, Jaffrey",Winter Show,Development : Winter Show
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,4678,CS-MIL,5000,1923.08,,"Program Director : MARTINEZ, JESSICA",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,19.25 Hrs. 6/2 to 6/15,4794,MSE03,5050,385.00,,"Group Leader : MONTGOMERY, BRYCE",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,4854,LTW08,5051,247.50,,"INTERN : WILSON, JOSHUA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70.36 Hrs. 6/2 to 6/15,4863,LTW06,5000,2029.89,,"Student Advisor : SANTOS, JEYCI",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.13 Hrs. 6/2 to 6/15,4865,LTW06,5000,2193.49,,"Assistant Director : Flores, Nicole",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.82 Hrs. 6/2 to 6/15,4931,CS-MIL,5000,1348.22,,"Maintenance Worker : WEEKS, TAEVON",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,52.74 Hrs. 6/2 to 6/15,4961,ADM05,5000,1217.66,,"Maintenance Worker : Vazquez, Ignacio",Administration,Operations
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,52.74 Hrs. 6/2 to 6/15,4961,CS-MIT,5000,1217.67,,"Maintenance Worker : Vazquez, Ignacio",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,4969,LTW03,5000,1872.50,,"Student Advisor : Charles Pierre, Nerlyne",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,73.65 Hrs. 6/2 to 6/15,4997,HDM,5000,1506.15,,"Maintenance Worker : Scroggins, Bernardina",Department For The Aging : HDM,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70.09 Hrs. 6/2 to 6/15,5143,ADM02,5000,2083.07,,"IT Coordinator : ASHLEY, MELISSA",Administration,Technology
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,63 Hrs. 6/2 to 6/15,5149,ADM01,5000,4399.68,,"Deputy Director : YISRAEL, ANAWAH",Administration,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,5149,ALP01,5000,488.86,,"Deputy Director : YISRAEL, ANAWAH",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5152,LTW05,5000,3149.04,,"Program Director : Rodriguez, Jonathan",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.69 Hrs. 6/2 to 6/15,5165,FHSMH,5000,2796.38,,"Head Start Teacher : Pacheco Martinez, Francia",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,28 Hrs. 6/2 to 6/15,5179,ESDSVP,5000,1164.69,,"Program Director : Marquez, Evin",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,42 Hrs. 6/2 to 6/15,5179,LTW01,5000,1747.04,,"Program Director : Marquez, Evin",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,8 Hrs. 6/2 to 6/15,5181,EMP03,5050,160.00,,"Activity Specialist : Rojas, Carolina",Office of Children and Family Services : EMP03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,8 Hrs. 6/2 to 6/15,5181,MSE05,5050,160.00,,"Activity Specialist : Rojas, Carolina",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5190,CHT99,1905,2753.73,,"Dir of Student Serv : Luc, Kevin",Haven Charter High School,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,34.25 Hrs. 6/2 to 6/15,5213,ADM05,5050,685.00,,"Maintenance Worker : TORRES, FRANCISCO",Administration,Operations
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5244,CS-MIT,5000,1731.10,,"Assistant Director : HINES, DONNILLE",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11.65 Hrs. 6/2 to 6/15,5246,CS-MIL,5000,623.96,,"Department Director : Rivera, Nilka",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11.67 Hrs. 6/2 to 6/15,5246,CS-MIT,5000,623.95,,"Department Director : Rivera, Nilka",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11.67 Hrs. 6/2 to 6/15,5246,CS-PAT,5000,623.92,,"Department Director : Rivera, Nilka",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11.67 Hrs. 6/2 to 6/15,5246,CSC03,5000,623.92,,"Department Director : Rivera, Nilka",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11.67 Hrs. 6/2 to 6/15,5246,CSC07,5000,623.95,,"Department Director : Rivera, Nilka",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11.67 Hrs. 6/2 to 6/15,5246,CSC10,5000,623.95,,"Department Director : Rivera, Nilka",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,66 Hrs. 6/2 to 6/15,5260,DFTA1-MEL,5050,1108.80,,"Custodian : Saldana, Junior",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5284,CSC07,5000,3036.52,,"Program Director : Adams, Nichelle",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,5314,MSE02,5050,280.00,,"Group Leader : REYES, ALINA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,65.75 Hrs. 6/2 to 6/15,5417,CS-MIT,5050,1315.00,,"Group Leader : BRANCH, QUANTEL",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,62 Hrs. 6/2 to 6/15,5421,ADM01,5050,1550.00,,"Administrative Assistant : MOREL, TIFFANY",Administration,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,5444,ESDSVP,5000,1144.14,,"Assistant Director : Gardner, Stephanie",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,5444,LTW04,5000,1144.16,,"Assistant Director : Gardner, Stephanie",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5492,ADM04,5000,7919.91,,"Chief Financial Officer (CFO) : MOSHETTE, SYDNEY",Administration,Finance
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,5499,LTW08,5051,495.00,,"INTERN : DARKO, GEORGE",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,54 Hrs. 6/2 to 6/15,5535,CMP01,5050,1080.00,,"Youth Educator : Rennie, Danielle",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,43.25 Hrs. 6/2 to 6/15,5537,CMP02,5050,865.00,,"Youth Educator : ROSARIO, HECTOR",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,62.58 Hrs. 6/2 to 6/15,5587,FHSMB,5000,1108.92,,"Head Start Assistant Teacher : SNOW DAVIS, MOET",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,73.85 Hrs. 6/2 to 6/15,5694,CMP03,5000,2130.57,,"Program Director : BRACY, MALICA",Department Youth & Community Development : CMP03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,80.25 Hrs. 6/2 to 6/15,5738,CS-PAT,5050,1640.00,,"Group Leader : SANTANA, PILAR",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,76.75 Hrs. 6/2 to 6/15,5749,CMP03,5050,1611.75,,"Lead Group Leader : RODRIGUEZ, DENISE",Department Youth & Community Development : CMP03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18 Hrs. 6/2 to 6/15,5786,LTW05,5051,297.00,,"INTERN : PIMENTEL, KAYLEEN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,33.75 Hrs. 6/2 to 6/15,5804,MSE04,5050,675.00,,"Group Leader : ROSARIO, MERCEDES",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,75.25 Hrs. 6/2 to 6/15,5809,CS-PAT,5050,1537.50,,"Youth Educator : SPEIGHT, ELAYNE",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5852,LTW03,5000,2307.90,,"Student Advisor : CONTRERAS CASTRO, AROM",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5894,LTW07,5000,2376.92,,"Assistant Director : TORRES, LIZBETH",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5895,LTW01,5000,2412.58,,"Assistant Director : SANTIAGO, SERGIO",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.41 Hrs. 6/2 to 6/15,5958,FHSMH,5000,1318.79,,"Head Start Assistant Teacher : Montiel, Irma",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5962,ADM06,5000,4284.40,,"Human Resources Director : TORRES, MYRIAH",Administration,Human Resources
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,5966,ADM04,5000,2495.77,,"Staff Accountant II : CAMMOCK, BRITNEY",Administration,Finance
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6033,SSS17,5000,2500.00,,"Program Director : OROPEZA CHAVEZ, STEPHANIE",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,48.94 Hrs. 6/2 to 6/15,6041,ADM06,5000,1385.60,,"Onboarding Specialist : Vilorio, Nathalee",Administration,Human Resources
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.49 Hrs. 6/2 to 6/15,6041,LTW04,5000,296.92,,"Onboarding Specialist : Vilorio, Nathalee",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.49 Hrs. 6/2 to 6/15,6041,LTW07,5000,296.92,,"Onboarding Specialist : Vilorio, Nathalee",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40.75 Hrs. 6/2 to 6/15,6116,CMP02,5050,815.00,,"Youth Educator : TORRES, ANTHONY",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.4 Hrs. 6/2 to 6/15,6120,CSC08,5000,1936.71,,"Student Advisor : WILSON, FRANK",NYC Department of Education : CSC08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6134,LTW01,5000,1872.50,,"Student Advisor : SOTO, ANTONIO",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6136,CSC05,5000,2376.91,,"Program Director : GARCIA, JANELLE",NYC Department of Education : CSC05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6138,HDM,5000,2911.73,,"HDM Food Services Manager : Dejesus, Sarah",Department For The Aging : HDM,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,24 Hrs. 6/2 to 6/15,6142,LTW05,5051,396.00,,"INTERN : DURHAM, JUSTIN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.76 Hrs. 6/2 to 6/15,6165,CSC03,5000,1946.33,,"Student Advisor : BROWN, JEFFREY",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,10.21 Hrs. 6/2 to 6/15,6165,MSE04,5050,256.11,,"Student Advisor : BROWN, JEFFREY",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,6192,LTW03,5051,660.00,,"INTERN : ARCHER, JESSICA",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,6197,LTW07,5051,495.00,,"INTERN : ALVAREZ, BRIANNA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,6209,LTW08,5051,247.50,,"INTERN : MCCLEARY, TIARRA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,57.04 Hrs. 6/2 to 6/15,6219,CS-MIL,5050,1140.80,,"Youth Educator : POWELL, JORDON",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,19.5 Hrs. 6/2 to 6/15,6221,MSE02,5050,429.00,,"Activity Specialist : RAMOS, DESIREE",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,2.5 Hrs. 6/2 to 6/15,6222,MSE02,5050,105.00,,"Education Specialist : FERNANDEZ, LINDA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,21 Hrs. 6/2 to 6/15,6233,ESDSVP,5000,561.75,,"Student Advisor : Agbontaen, Osazuwa",NYS Department of Education : ESDSVP,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,49 Hrs. 6/2 to 6/15,6233,LTW01,5000,1310.75,,"Student Advisor : Agbontaen, Osazuwa",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,45 Hrs. 6/2 to 6/15,6237,MSE05,5050,900.00,,"Youth Educator : ABREU, FAITH",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,37.5 Hrs. 6/2 to 6/15,6238,CMP02,5050,750.00,,"Youth Educator : Brown, Anaya",Department Youth & Community Development : CMP02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.18 Hrs. 6/2 to 6/15,6257,CMP04,5000,1612.94,,"Program Assistant : BACCHAS, XION",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,6260,LTW06,5051,495.00,,"INTERN : DOTTAVI, CHRISTOPHER",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,64.25 Hrs. 6/2 to 6/15,6289,CS-MIT,5050,1285.00,,"Youth Educator : HUNTER, ISAIAH",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,6357,LTW08,5051,247.50,,"INTERN : ATAKOURA, SOUMEA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,6358,LTW08,5051,247.50,,"INTERN : NOESI, LUIS",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,75 Hrs. 6/2 to 6/15,6374,LTW04,5000,2006.25,,"Student Advisor : MORRIS, JANAYHA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,6390,LTW07,5051,495.00,,"INTERN : HENDERSON, DASHAWN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.18 Hrs. 6/2 to 6/15,6401,LTW06,5000,1850.57,,"Student Advisor : Bruce, Akua",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.33 Hrs. 6/2 to 6/15,6404,CSC07,5000,1854.58,,"Student Advisor : David, Raheem",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18.98 Hrs. 6/2 to 6/15,6405,CSC03,5000,507.72,,"Student Advisor : Alsina, Alexander",NYC Department of Education : CSC03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,45.75 Hrs. 6/2 to 6/15,6426,CMP04,5050,915.00,,"Youth Educator : RODRIGUEZ, JOHANNA",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,8.25 Hrs. 6/2 to 6/15,6430,CMP01,5050,165.00,,"Youth Educator : NEWMAN, MELANIE",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,4 Hrs. 6/2 to 6/15,6446,CS-MIT,5050,88.00,,"Activity Specialist : Beatriz, Sanchez",Department Youth & Community Development : CS-MIT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,6454,LTW07,5051,495.00,,"INTERN : VELAZQUEZ, JONATHAN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,6461,PSP01-608,5051,330.00,,"INTERN : BURGOS, EUDIS",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,21 Hrs. 6/2 to 6/15,6487,CMP04,5000,1215.41,,"Education Director : BROWN, KAREN",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,49 Hrs. 6/2 to 6/15,6487,FHSMH,5000,2835.94,,"Education Director : BROWN, KAREN",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,6505,LTW05,5051,247.50,,"INTERN : MARTE, YANELY",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,56 Hrs. 6/2 to 6/15,6515,ADM02,5000,3392.29,,"Information Technology (IT) Manager : Montalban, Mervin",Administration,Technology
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,6515,LTW04,5000,424.04,,"Information Technology (IT) Manager : Montalban, Mervin",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7 Hrs. 6/2 to 6/15,6515,LTW07,5000,424.04,,"Information Technology (IT) Manager : Montalban, Mervin",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,22.5 Hrs. 6/2 to 6/15,6517,LTW05,5051,371.25,,"INTERN : Henriquez, Wehiliani",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,6550,LTW08,5051,247.50,,"INTERN : ARRIOLA, JANICE",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,6564,LTW04,5051,495.00,,"INTERN : RIVAS, DIEGO",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,67.77 Hrs. 6/2 to 6/15,6567,FHSMH,5000,2012.77,,"Early Head Start Teacher : GREEN, DANAE",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,44.08 Hrs. 6/2 to 6/15,6576,CMP04,5050,881.60,,"Youth Educator : CORREA, JOSHUA",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,75.01 Hrs. 6/2 to 6/15,6584,DFTA1-MEL,5000,1299.92,,"Kitchen Aide : TIGRERO, RITA",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12 Hrs. 6/2 to 6/15,6591,LTW08,5051,198.00,,"INTERN : VELASQUEZ, NELSON",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,7.5 Hrs. 6/2 to 6/15,6592,LTW08,5051,123.75,,"INTERN : KORTRIGHT, JAYDEN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6612,FHSADM,5000,2953.33,,"Facilities Manager : MAYBANK, LAMEKOWITZ",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6634,LTW01,5000,1872.50,,"Student Advisor : HARRIGAN-BRANTLEY, KYLAH",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,73.29 Hrs. 6/2 to 6/15,6636,CSC08,5000,1960.51,,"Student Advisor : COKER, BRITTNEY",NYC Department of Education : CSC08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,6648,LTW08,5051,247.50,,"INTERN : ADAMES, KAREEM",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12 Hrs. 6/2 to 6/15,6653,MSE02,5050,240.00,,"Group Leader : CARRION, JONATHAN",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6655,FHSEO,5000,3743.65,,"Education Director : GRIFFIN, BRIANNA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,66.78 Hrs. 6/2 to 6/15,6674,DFTA2-PATT,5000,1511.90,,"Program Coordinator : HUNTER, LASHAWN",Department For The Aging : DFTA2,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,47.82 Hrs. 6/2 to 6/15,6681,DFTA4-BOR,5050,878.93,,"Program Assistant : Ayala, Taina",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.34 Hrs. 6/2 to 6/15,6685,CSC07,5000,1935.10,,"Student Advisor : Soto, Juliann",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,6688,LTW07,5051,495.00,,"INTERN : VERAS, JALINDI",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,6745,LTW07,5051,495.00,,"INTERN : ALFIERI JR, MARK",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,54.13 Hrs. 6/2 to 6/15,6766,CMP04,5050,1082.60,,"Youth Educator : BURNS, TRAVIS",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18 Hrs. 6/2 to 6/15,6798,LTW05,5051,297.00,,"INTERN : Henriquez, Terisha",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,48.75 Hrs. 6/2 to 6/15,6801,CMP04,5050,975.00,,"Group Leader : MARTINEZ, NAYELY",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,50 Hrs. 6/2 to 6/15,6802,CMP04,5050,1000.00,,"Group Leader : Sanchez, Nailea",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,27 Hrs. 6/2 to 6/15,6813,LTW05,5051,445.50,,"INTERN : FABIAN, EDGAR",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.18 Hrs. 6/2 to 6/15,6814,FHSMH,5000,1353.13,,"Head Start Assistant Teacher : ADAMES, HILDA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,6818,SSS17,5050,330.00,,"Group Leader : ROBINSON, MYA",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,6825,SSS12,5050,330.00,,"Group Leader : Cruz, Alissa",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,6826,SSS17,5050,330.00,,"Group Leader : OSEI, SAMUELA",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,65.82 Hrs. 6/2 to 6/15,6835,FHSCP,5000,1564.54,,"Family Worker : SANTOS, AMBER",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,29.5 Hrs. 6/2 to 6/15,6845,MSE03,5050,590.00,,"Group Leader : JOHNSON, OMAR",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,74.87 Hrs. 6/2 to 6/15,6847,CSC10,5000,1944.37,,"Student Advisor : Minier, Sharlene",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,32.5 Hrs. 6/2 to 6/15,6851,CMP05,5050,650.00,,"Group Leader : RIQUELME, JOSE",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,75.86 Hrs. 6/2 to 6/15,6861,CSC10,5000,1932.91,,"Student Advisor : Hernandez, Isai",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6873,CSC10,5000,2500.00,,"Program Director : CRUZ, LYTHZA",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6876,OC120,5000,2376.91,,"IT System Administrator : Polanco, Cristian Junior",Office of Children and Family Services : OC120,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,43.75 Hrs. 6/2 to 6/15,6886,CMP04,5050,962.50,,"Activity Specialist : HEYWOOD ROBERTS, KATA",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,73.23 Hrs. 6/2 to 6/15,6898,FHSWW,5000,1296.17,,"Family Worker : Torres, Sorangel",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70.7 Hrs. 6/2 to 6/15,6916,ADM01,5000,2200.89,,"Volunteer Engagement Coordinator : WILLIAMS, ELOISE",Administration,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,42 Hrs. 6/2 to 6/15,6917,ALE,5000,1589.07,,"Education Services Manager-PSP : Micelli, Ali",NYS Department of Education : ALE,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,28 Hrs. 6/2 to 6/15,6917,ALP01,5000,1059.38,,"Education Services Manager-PSP : Micelli, Ali",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,47.06 Hrs. 6/2 to 6/15,6925,FHSCP,5000,818.84,,"Custodian : Windham, Trevone",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,34.75 Hrs. 6/2 to 6/15,6928,MSE02,5050,695.00,,"Group Leader : MARTINEZ, ADRIANA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,6943,LTW07,5051,495.00,,"INTERN : OROZCO, ARTURO",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,42.31 Hrs. 6/2 to 6/15,6949,ALE,5000,1389.10,,"Instructor : Jimenez, Michael",NYS Department of Education : ALE,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,28.21 Hrs. 6/2 to 6/15,6949,ALP01,5000,926.07,,"Instructor : Jimenez, Michael",Department Youth & Community Development : ALP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,26.75 Hrs. 6/2 to 6/15,6951,MSE02,5050,535.00,,"Group Leader : ALBINO, JOANA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,6960,JPLUS,5000,2615.38,,"Education Specialist : STONE, KEVIN",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,75.63 Hrs. 6/2 to 6/15,6961,PSP01-608,5000,1953.52,,"College Retention Specialist : CONSTANZA SANTANA, EOANNA",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,5 Hrs. 6/2 to 6/15,6995,PSP01-608,5051,82.50,,"INTERN : MEJIA, JULIANY",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7005,LTW05,5051,247.50,,"INTERN : MELO, TIFANY",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,13.62 Hrs. 6/2 to 6/15,7006,CMP01,5050,272.50,,"Youth Educator : Peralta, Libby",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,13.63 Hrs. 6/2 to 6/15,7006,CMP05,5050,272.50,,"Youth Educator : Peralta, Libby",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7026,LTW04,5051,495.00,,"INTERN : JACKSON, KRYST",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7034,LTW07,5051,495.00,,"INTERN : TUNKARA, FATOUMATA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,22 Hrs. 6/2 to 6/15,7040,LTW08,5051,363.00,,"INTERN : AKTHER, SYEDA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11 Hrs. 6/2 to 6/15,7046,LTW08,5051,181.50,,"INTERN : COMPAORE, DAWUD",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,13.5 Hrs. 6/2 to 6/15,7047,LTW08,5051,222.75,,"INTERN : ASHMEADE, AZAIRIAH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7049,LTW07,5000,1783.60,,"Student Advisor : Rivera, Jaylene",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,21 Hrs. 6/2 to 6/15,7050,LTW05,5051,346.50,,"INTERN : RAMIREZ, HAILEY",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7063,LTW04,5051,495.00,,"INTERN : ROCHTTIS HOLGUIN, DAVANEE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7074,LTW08,5051,247.50,,"INTERN : Diarrassouba, Nawa",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,39.25 Hrs. 6/2 to 6/15,7075,CS-MIL,5050,785.00,,"Group Leader : MENA, TAMISHA",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.91 Hrs. 6/2 to 6/15,7094,CS-PAT,5000,1333.21,,"Custodian : Ramos, Elizabeth",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7096,LTW04,5051,495.00,,"INTERN : AROCA VALENZUELA, FAUSTO",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7102,LTW04,5051,495.00,,"INTERN : CLARKE, JAYDEN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7124,LTW04,5051,495.00,,"INTERN : ONEAL, MALKA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,69.12 Hrs. 6/2 to 6/15,7130,ADM06,5000,1899.42,,"Human Resources Assistant : Hicks, Shemaine",Administration,Human Resources
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12 Hrs. 6/2 to 6/15,7140,LTW08,5051,198.00,,"INTERN : ESTRELLA, WILIANNY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,7148,CMP01,5000,1089.42,,"Program Director : Camacho, Angel",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,7148,CMP05,5000,1089.43,,"Program Director : Camacho, Angel",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,73.69 Hrs. 6/2 to 6/15,7159,CSC09,5000,1877.62,,"Student Advisor : Hernandez, Elvis",NYC Department of Education : CSC09,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,7167,MSE05,5050,700.00,,"Group Leader : GOMEZ SANCHEZ, THANIA",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12.37 Hrs. 6/2 to 6/15,7172,CMP01,5050,247.50,,"Youth Educator : VALERA, DAHIANA",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12.38 Hrs. 6/2 to 6/15,7172,CMP05,5050,247.50,,"Youth Educator : VALERA, DAHIANA",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7174,LTW07,5051,495.00,,"INTERN : MONTALVO, IZAIAH",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7191,FHSMH,5000,3367.31,,"Director of Family Services : BASQUIAT, MICHELE",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7198,LTW07,5051,495.00,,"INTERN : CISSE,MAMOUROU",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7199,LTW08,5051,247.50,,"INTERN : BODDEN, RIHANNA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12.5 Hrs. 6/2 to 6/15,7203,LTW08,5051,206.25,,"INTERN : LEE, CHRISTIAN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7207,LTW07,5051,495.00,,"INTERN : GIL, EMANUEL",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7216,LTW07,5051,495.00,,"INTERN : FRANQUI, ATHENA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,14 Hrs. 6/2 to 6/15,7226,CMP05,5050,280.00,,"Youth Educator : JULIEN, ZANIYA",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,13.5 Hrs. 6/2 to 6/15,7229,LTW08,5051,222.75,,"INTERN : RAMON, DESTINY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,61.21 Hrs. 6/2 to 6/15,7230,JPLUS,5000,1489.85,,"Career Coach : SMITH, SHADEA",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,34.25 Hrs. 6/2 to 6/15,7240,MSE03,5050,685.00,,"Group Leader : CONTRERAS, LIBANNY",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7255,CHT99,1905,7130.77,,"Principal-Haven Charter High School : MENDEZ, LUCINDA",Haven Charter High School,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,37 Hrs. 6/2 to 6/15,7260,CMP01,5050,740.00,,"Youth Educator : Duran, Jadeline",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,55.5 Hrs. 6/2 to 6/15,7261,DFTA1-MEL,5050,1000.67,,"Program Assistant : MUNOZ, NAIMAH",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7264,LTW04,5051,495.00,,"INTERN : DAYE, JAHKEBRA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7285,LTW07,5051,495.00,,"INTERN : CLASE, AVA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,63.54 Hrs. 6/2 to 6/15,7291,JPLUS,5000,1509.71,,"Engagement Specialist : MARTINEZ, MARGARET",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7293,LTW07,5051,495.00,,"INTERN : TROCHE, ANNAYHA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,37 Hrs. 6/2 to 6/15,7295,CMP01,5050,740.00,,"Youth Educator : Perez, Destiny",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,29 Hrs. 6/2 to 6/15,7296,LTW03,5051,478.50,,"INTERN : GONZALEZ, JASON",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,81.68 Hrs. 6/2 to 6/15,7303,EHSEO,5000,2320.46,,"Early Head Start Teacher : ALBONIGA, VANESSA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7311,ADM06,5000,2500.00,,"Human Resources Generalist : ARROYO, ODILE",Administration,Human Resources
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.78 Hrs. 6/2 to 6/15,7315,MSE05,5000,1579.16,,"Program Assistant : ESPINAL SANTANA, NICOLE",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,39.5 Hrs. 6/2 to 6/15,7332,CMP03,5050,790.00,,"Youth Educator : ONEAL, CAILYN",Department Youth & Community Development : CMP03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7353,SSS17,5051,330.00,,"INTERN : GONZALEZ, JENNIFER",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7355,SSS17,5051,330.00,,"INTERN : BAUTISTA, ABIGAIL",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7356,SSS17,5051,330.00,,"INTERN : VERAS, ROBERT",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,29.5 Hrs. 6/2 to 6/15,7357,SSS17,5051,486.75,,"INTERN : ROSARIO MARTINEZ, VLAINER",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7358,SSS17,5051,330.00,,"INTERN : ISLAMORA, MUSLIMAKHON",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7360,SSS12,5051,330.00,,"Group Leader : MATOS ESQUILIN, AELEEN",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7361,SSS12,5050,330.00,,"Group Leader : Rice, Charlie",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7362,SSS12,5050,330.00,,"Group Leader : HENDRICKS, KATHRYN",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7364,SSS12,5051,330.00,,"Group Leader : Cuatlacuatl-Alonso, Gustavo",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7367,ADM06,5000,3076.91,,"Senior Human Resources Generalist : MERCADO, LYNDA",Administration,Human Resources
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7368,SSS17,5051,330.00,,"Group Leader : FRIAS HERNANDEZ, JEIHNALIE",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7377,SSS12,5051,330.00,,"Group Leader : HAWKINS, FAITH",NYC Department of Education : SSS12,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,7378,LTW05,5051,148.50,,"INTERN : PEREZ SANTANA, KEILA",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7379,EHSCP,5000,3461.54,,"Education Director : SANABRIA, ERICA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,53 Hrs. 6/2 to 6/15,7380,MSE05,5050,1060.00,,"Group Leader : DOMINGUEZ, RASHELY",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,37 Hrs. 6/2 to 6/15,7381,MSE05,5050,740.00,,"Group Leader : RODRIGUEZ, ANGEL",Department Youth & Community Development : MSE05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,37.75 Hrs. 6/2 to 6/15,7382,CMP05,5050,755.00,,"Youth Educator : VERAS, MASSIEL",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,80 Hrs. 6/2 to 6/15,7392,LTW05,5000,1990.77,,"Student Advisor : GARCIA GUILAMO, KATHERINE",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,76.5 Hrs. 6/2 to 6/15,7393,LTW05,5000,1910.39,,"Student Advisor : CUELLO, KENDRICK",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7394,SSS19,5000,2692.31,,"Program Director : PICHARDO, LEANN",NYC Department of Education : SSS19,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15.15 Hrs. 6/2 to 6/15,7400,FHSEO,5000,283.00,,"Head Start Assistant Teacher : GAYMON, KIMORA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.56 Hrs. 6/2 to 6/15,7401,FHSWW,5000,1554.96,,"Head Start Assistant Teacher : CAMPBELL, JENNIFER",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,34.75 Hrs. 6/2 to 6/15,7414,MSE02,5050,695.00,,"Group Leader : BURGOS, ARIANNY",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7416,CSC07,5000,2307.90,,"Assistant Director : MUNOZ, ERIC",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,51.14 Hrs. 6/2 to 6/15,7422,MSE04,5050,1022.80,,"Group Leader : LOPEZ, JANAYA",Department Youth & Community Development : MSE04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7430,LTW03,5051,495.00,,"INTERN : HERRERA, JADE",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7434,LTW01,5000,1731.10,,"Student Advisor : MERCADO, SHANTEL",NYC Department of Education : LTW01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7435,LTW03,5051,660.00,,"INTERN : SKERVING, GODDELL LANNAEUS",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,75 Hrs. 6/2 to 6/15,7442,LTW04,5000,1854.75,,"Student Advisor : BAMBERA, FATOUMATA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7443,LTW07,5051,495.00,,"INTERN : KOUANDA, ADNAN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7450,LTW03,5051,660.00,,"INTERN : CASTILLO, ELIEZER",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,77.99 Hrs. 6/2 to 6/15,7454,ADM04,5000,2571.34,,"Accounts Payable/Procurement Associate : DAISON, SHELAYNE",Administration,Finance
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70.61 Hrs. 6/2 to 6/15,7455,FHSMH,5000,2716.37,,"Head Start Teacher : ARIAS, MARIA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,65.11 Hrs. 6/2 to 6/15,7456,FHSWW,5000,1144.63,,"Head Start Assistant Teacher : BONAPARTE, MADISON",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7461,LTW03,5051,660.00,,"INTERN : PENA, YOLENNY",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7467,LTW08,5051,247.50,,"INTERN : THOMAS, KIMBERLY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7469,LTW08,5051,247.50,,"INTERN : COULIBALY, ABY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7473,LTW04,5051,495.00,,"INTERN : LEE, AUSTIN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7475,LTW07,5000,1923.60,,"College Counselor : BRANDON, JOVENIA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7476,LTW04,5051,495.00,,"INTERN : CISSE, KERFALLA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7484,DFTA4-BOR,5000,2307.68,,"Program Director : CALLAWAY, CRYSTAL",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7487,LTW03,5051,495.00,,"INTERN : CASTRO, WILMIN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7489,LTW04,5051,495.00,,"INTERN : DIAZ, JAZLYN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7490,LTW03,5051,660.00,,"INTERN : CAMPOS, HEAVEN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7491,LTW07,5051,495.00,,"INTERN : KELTA, MAJOU",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7502,LTW07,5051,495.00,,"INTERN : SMITH, MARIYAH",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7504,LTW07,5051,495.00,,"INTERN : SANDOVAL, JAMILET",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7505,LTW07,5051,495.00,,"INTERN : CANDELARIO, ANDREW",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7506,LTW07,5051,495.00,,"INTERN : NUNEZ, VICTORIA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7511,LTW03,5051,660.00,,"INTERN : CRUZ, JEZABELLE",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7512,LTW08,5000,2307.90,,"Assistant Director : BAUZILE, RICARDO",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7513,LTW04,5051,495.00,,"INTERN : CISSE, MOUHAMED",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7514,LTW04,5051,495.00,,"INTERN : MERCEDES, MYAH",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7515,LTW04,5051,495.00,,"INTERN : RIVERA, VICK",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7516,LTW04,5051,495.00,,"INTERN : LUNA CORDERO, ARIANNIE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,50.75 Hrs. 6/2 to 6/15,7517,CMP01,5050,1015.00,,"Youth Educator : BLACKWELL, NAHJA",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12 Hrs. 6/2 to 6/15,7535,LTW08,5051,198.00,,"INTERN : RAMIREZ, DERLIN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,33.5 Hrs. 6/2 to 6/15,7540,MSE03,5050,670.00,,"Group Leader : DOMINGUEZ, ADAYS",Department Youth & Community Development : MSE03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7544,LTW05,5051,495.00,,"INTERN : MOTA, RENATO",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,78.34 Hrs. 6/2 to 6/15,7547,SSS17,5000,1937.35,,"College Counselor : RIVERA, CHRISTAURY",NYC Department of Education : SSS17,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7551,LTW04,5051,495.00,,"INTERN : APPIAH, THEOPHILUS",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.94 Hrs. 6/2 to 6/15,7552,MSE02,5000,2056.05,,"Program Director : BELTRAN, KAYLA",Department Youth & Community Development : MSE02,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7553,LTW04,5051,495.00,,"INTERN : BERBERENA, NESSANDRA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7554,LTW08,5000,1731.10,,"Student Advisor : COLON GARAY, SHANNON",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7557,LTW04,5051,495.00,,"INTERN : GUITY, RAYLEEN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7559,LTW08,5000,1731.10,,"Student Advisor : DELGADILLO, RAFAEL",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7560,LTW04,5051,495.00,,"INTERN : GIBBS, MADISON",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7561,LTW04,5051,495.00,,"INTERN : UDDIN, TAHA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7564,LTW04,5051,495.00,,"INTERN : MEJIA, VICTOR",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.45 Hrs. 6/2 to 6/15,7566,JPLUS,5000,2277.11,,"Clinical and Wellness Coordinator : ELI, JESELLE",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7567,LTW04,5051,495.00,,"INTERN : ORTEGA, DULCE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7571,LTW04,5051,495.00,,"INTERN : PADILLA, KRISTEN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,7576,PSP01-608,5051,148.50,,"INTERN : NDIAYE, CHERIF",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,31 Hrs. 6/2 to 6/15,7578,PSP01-608,5051,511.50,,"INTERN : EALY, FRANKLIN",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7580,PSP01-608,5051,660.00,,"INTERN : SAMUEL, SHAYA",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7582,LTW04,5051,495.00,,"INTERN : NOWRIN, NADIA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7583,LTW04,5051,495.00,,"INTERN : PEREZ, IVAN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7584,LTW04,5051,495.00,,"INTERN : VELEZ, MIA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7586,LTW04,5051,495.00,,"INTERN : HENRIQUEZ, EDYSE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7587,LTW04,5051,495.00,,"INTERN : NIEVES, SAMANTHA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7592,LTW03,5000,1731.10,,"Student Advisor : TAYLOR, ZARQUIN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,71.72 Hrs. 6/2 to 6/15,7594,JPLUS,5000,2364.61,,"Education Specialist : LEBO, DANIEL",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7597,LTW08,5051,247.50,,"INTERN : MARTINEZ, BEYONCE",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7599,LTW07,5051,495.00,,"INTERN : TOLENTINO, ONNELLY",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,80.27 Hrs. 6/2 to 6/15,7613,CS-MIL,5000,1895.79,,"Assistant Director : EVANS, DAUNTAE",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7617,FHSWW,5000,3461.54,,"Education Director : LAWRENCE, YOLANDA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,20 Hrs. 6/2 to 6/15,7618,PSP01-608,5051,330.00,,"INTERN : LOPEZ, RUBEN",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7620,LTW08,5051,247.50,,"INTERN : SANTOS, OSCAR",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12 Hrs. 6/2 to 6/15,7621,LTW08,5051,198.00,,"INTERN : PERALTA, KELVIN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7622,LTW07,5051,495.00,,"INTERN : CAMPBELL, ANGELO",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7623,LTW07,5051,495.00,,"INTERN : MCLAIN, QUWAN",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7624,LTW07,5051,495.00,,"INTERN : KANTE, MOUSSA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7634,LTW07,5051,495.00,,"INTERN : TOURE, ABDOULAYE",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7635,LTW07,5051,495.00,,"INTERN : CRUZ, MADISON",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7636,LTW07,5051,495.00,,"INTERN : COLON, MIKAILI",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7642,LTW04,5051,495.00,,"INTERN : LOPEZ, DUANYFER",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,5 Hrs. 6/2 to 6/15,7646,LTW08,5051,82.50,,"INTERN : SANCHEZ, KEVIN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,16 Hrs. 6/2 to 6/15,7649,LTW08,5051,264.00,,"INTERN : PEREZ OLIVARES, ELENY",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,60.25 Hrs. 6/2 to 6/15,7651,CS-MIL,5050,1205.00,,"Group Leader : CANNADY, TRISTAN",Department Youth & Community Development : CS-MIL,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7652,LTW08,5051,247.50,,"INTERN : RAMIREZ, YUVIRITH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18 Hrs. 6/2 to 6/15,7653,LTW08,5051,297.00,,"INTERN : PENA, LUIS",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,13.5 Hrs. 6/2 to 6/15,7654,LTW08,5051,222.75,,"INTERN : FELIZ, ERICK",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18 Hrs. 6/2 to 6/15,7656,LTW08,5051,297.00,,"INTERN : BERBERENA, ALEX",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7658,LTW07,5051,495.00,,"INTERN : SANCHEZ, BREANNA",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,42.5 Hrs. 6/2 to 6/15,7659,CS-PAT,5050,850.00,,"Group Leader : ALVAREZ, SHABORN",Department Youth & Community Development : CS-PAT,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7664,LTW04,5051,495.00,,"INTERN : DELESLINE, DEVIN",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7672,LTW04,5051,495.00,,"INTERN : LINTON, TANIQUE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7673,LTW04,5051,495.00,,"INTERN : MUNIZ, LEIANA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7674,LTW04,5051,495.00,,"INTERN : PINET, ANGEL",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18 Hrs. 6/2 to 6/15,7678,LTW08,5051,297.00,,"INTERN : CASTRO, ALAN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,34.25 Hrs. 6/2 to 6/15,7679,CMP05,5050,685.00,,"Youth Educator : ORTIZ, SHANTELL",Department Youth & Community Development : CMP05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7685,LTW04,5051,495.00,,"INTERN : JOSHUA, DARRYL",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7686,LTW04,5051,495.00,,"INTERN : WHITE, BRIANNA",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7687,LTW04,5051,495.00,,"INTERN : COULIBALY, MAHAMADU",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,48 Hrs. 6/2 to 6/15,7689,PSP01-608,5051,792.00,,"INTERN : HARMON, ALANNA",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7693,PSP01-608,5051,660.00,,"INTERN : REYES, RICIANA",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,11 Hrs. 6/2 to 6/15,7694,LTW05,5051,181.50,,"INTERN : ALBERT, NEVAEH",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7700,ADM04,5000,4615.37,,"Controller : LORQUET, BIANCA",Administration,Finance
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,54.25 Hrs. 6/2 to 6/15,7701,CMP04,5050,1085.00,,"Youth Educator : DARK, CRYSTA",Department Youth & Community Development : CMP04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7702,LTW07,5051,495.00,,"INTERN : MELENDEZ, HONESTI",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,46.11 Hrs. 6/2 to 6/15,7705,JPLUS,5050,760.82,,"Community Coach : FERNÁNDEZ, JEREMIAH",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7706,LTW07,5051,495.00,,"INTERN : WEIR, RACQUILLE",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,46 Hrs. 6/2 to 6/15,7708,PSP01-608,5051,759.00,,"INTERN : TORRES, ISIS",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7710,LTW08,5051,247.50,,"INTERN : NIN ROA, AISHA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,17.5 Hrs. 6/2 to 6/15,7713,LTW08,5051,288.75,,"INTERN : HOSTOS, JONATHAN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7715,LTW03,5051,660.00,,"INTERN : SANCHEZ, JEREMY-AXEL",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7716,LTW04,5051,495.00,,"INTERN : ALI, RAKIB",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7717,LTW04,5051,495.00,,"INTERN : DIALLO, ELHADJ",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7719,LTW04,5051,495.00,,"INTERN : GOMES, JAHSHIM",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,4 Hrs. 6/2 to 6/15,7723,LTW06,5051,66.00,,"INTERN : PICKINGS, HALEY",NYC Department of Education : LTW06,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7724,LTW04,5051,495.00,,"INTERN : SANCHEZ, NATALY",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7725,LTW04,5051,495.00,,"INTERN : SEGAR, JULLEEZ",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7727,LTW04,5051,495.00,,"INTERN : TORRES, YADIEL",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7728,LTW04,5051,495.00,,"INTERN : GASKIN, RONALDO",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7730,PSP01-608,5051,660.00,,"INTERN : GRANT, AMAIYAH",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7731,PSP01-608,5051,660.00,,"INTERN : SWINTON, BRYANA",Altman,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7733,LTW07,5051,495.00,,"INTERN : HERNANDEZ, KRYSTAL",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,84.53 Hrs. 6/2 to 6/15,7735,FHSMH,5000,1580.22,,"Custodian : KLU, JUSTICE",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7736,LTW04,5051,495.00,,"INTERN : LEON, CHARLIZE",NYC Department of Education : LTW04,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18 Hrs. 6/2 to 6/15,7742,LTW08,5051,297.00,,"INTERN : ORTIZ, JOSEPH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7743,LTW07,5051,495.00,,"INTERN : OLIVARES, ABDISON",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7744,ADM02,5000,2230.77,,"IT Tech Support : BARRIE, MOHAMED",Administration,Technology
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7745,LTW07,5051,495.00,,"INTERN : CASTILLO, WASANI",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,3 Hrs. 6/2 to 6/15,7746,LTW08,5051,49.50,,"INTERN : SENCION, ADRIAH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,45.3 Hrs. 6/2 to 6/15,7747,DFTA1-MEL,5000,996.60,,"Case Worker : ACEVEDO, NASHALIE",Department For The Aging : DFTA1,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7749,LTW07,5051,495.00,,"INTERN : SUGRI, AHMED",NYC Department of Education : LTW07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,60.61 Hrs. 6/2 to 6/15,7751,DFTA4-BOR,5000,1333.42,,"Case Worker : RAMOS, BENJAMIN",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15.75 Hrs. 6/2 to 6/15,7752,LTW08,5051,259.88,,"INTERN : VILLALOBOS, JASLYN",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,72.07 Hrs. 6/2 to 6/15,7753,CSC07,5000,1782.29,,"Student Advisor : TEJEDA, DORIAN",NYC Department of Education : CSC07,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,70 Hrs. 6/2 to 6/15,7757,CSC10,5000,2115.37,,"Assistant Director : ACOSTA, BYRON",NYC Department of Education : CSC10,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,26.25 Hrs. 6/2 to 6/15,7759,LTW08,5051,433.13,,"INTERN : BARRY, MAMADOU",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7760,LTW08,5051,247.50,,"INTERN : STEWART, DEMYHA",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,22 Hrs. 6/2 to 6/15,7761,LTW05,5051,363.00,,"INTERN : PENA, NICOLE",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,17.5 Hrs. 6/2 to 6/15,7762,LTW05,5051,288.75,,"INTERN : GARCIA, SHAYLEEN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,31.52 Hrs. 6/2 to 6/15,7765,JPLUS,5050,520.08,,"Community Coach : STARKES, VINCENT",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,22 Hrs. 6/2 to 6/15,7766,LTW05,5050,363.00,,"INTERN : ANDUJAR, YANIBELL",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,44.5 Hrs. 6/2 to 6/15,7767,CMP01,5050,890.00,,"Youth Educator : TIBAN, KEILY",Department Youth & Community Development : CMP01,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,35 Hrs. 6/2 to 6/15,7768,LTW03,5051,577.50,,"INTERN : STRONG, CAMREN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7769,LTW05,5050,495.00,,"INTERN : MERCADO, ALIYAAH",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,74.22 Hrs. 6/2 to 6/15,7771,FHSCP,5000,1345.61,,"Custodian : DAVIS, LAMONT",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,57.31 Hrs. 6/2 to 6/15,7772,FHSMB,5000,1196.63,,"Head Start Assistant Teacher : VAZQUEZ, MARIA",Head Start,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,18 Hrs. 6/2 to 6/15,7773,LTW05,5050,297.00,,"INTERN : REYES, ALYSSA",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7774,LTW03,5051,660.00,,"INTERN : VELASQUEZ, BLADIMIR",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7775,LTW03,5051,660.00,,"INTERN : TORRES, JASMIN",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,40 Hrs. 6/2 to 6/15,7776,LTW03,5051,660.00,,"INTERN : MARTINEZ, NICHOLLE",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7778,LTW05,5050,247.50,,"INTERN : FERGUSON, DONNELL",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,32.13 Hrs. 6/2 to 6/15,7781,JPLUS,5050,530.15,,"Community Coach : ACOSTA, JOSEPH",Human Resources Administration : JPLUS,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,27 Hrs. 6/2 to 6/15,7784,LTW08,5051,445.50,,"INTERN : MEDINA, FRANCIEL",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,15 Hrs. 6/2 to 6/15,7786,LTW08,5051,247.50,,"INTERN : BRIGGS, JARIYAH",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,23.5 Hrs. 6/2 to 6/15,7790,LTW05,5050,387.75,,"INTERN : CAMINERO, JENDY",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,6 Hrs. 6/2 to 6/15,7791,LTW05,5050,99.00,,"INTERN : DE JESUS MONTERO, JUAN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,12 Hrs. 6/2 to 6/15,7802,LTW08,5051,198.00,,"INTERN : ARRIOLA, JASLINE",NYC Department of Education : LTW08,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,30 Hrs. 6/2 to 6/15,7804,LTW03,5051,495.00,,"INTERN : CAMILO REYNOSO, CHRISTHOFER",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9.5 Hrs. 6/2 to 6/15,7820,LTW05,5051,156.75,,"INTERN : DELVALLE, JAYDEN",NYC Department of Education : LTW05,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,9 Hrs. 6/2 to 6/15,7821,LTW03,5051,148.50,,"INTERN : HERNANDEZ, ALBERT",NYC Department of Education : LTW03,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,80.25 Hrs. 6/2 to 6/15,7822,DFTA4-BOR,5000,2040.63,,"Cook : PARKES, DAVIAN",Department For The Aging : DFTA4,Programs
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,PEN PYMNT 6/2 to 6/15,JSAN,ADM01,5000,769.23,,"Associate Executive : Sanchez, John",Administration,Administration
+JVPR06182025_BSM2,PR061825SAL,Jun 2025,Salaries - 6/2/25 to 6/15/25,,,2155,,574157.53,,,
